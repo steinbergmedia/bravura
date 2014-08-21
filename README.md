@@ -1,4 +1,4 @@
-bravura
-=======
+# Bravura music font
 
-Bravura music font, reference font for SMuFL (Standard Music Font Layout)
+Bravura is an OpenType music font for Steinberg's in-development music notation and composition software.
+
