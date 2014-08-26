@@ -248,3 +248,7 @@ Changelog
 25 July 2014 (Daniel Spreadbury) Bravura 1.05
 – Corrected the side-bearings of the timeSigParensLeft, timeSigParensRight, timeSigParensLeftSmall and timeSigParensRightSmall glyphs; also made the curvature of the small parentheses less extreme
 – Added new timeSigBracketLeft, timeSigBracketRight, timeSigBracketLeftSmall, timeSigBracketRightSmall and timeSigSlash glyphs, in a new range at U+EC80 (the first new range of recommended glyphs to be added after SMuFL version 1.0)
+
+26 August 2014 (Daniel Spreadbury) Bravura 1.06
+– Corrected the registration of flag64thDownStraight.
+– Corrected the appearance of U+1D1A9 in the Unicode Musical Symbols Range: it should have been equivalent to csymHalfDiminished, but it was incorrectly mapped to csymDiminished.
