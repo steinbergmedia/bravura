@@ -252,3 +252,8 @@ Changelog
 26 August 2014 (Daniel Spreadbury) Bravura 1.06
 – Corrected the registration of flag64thDownStraight.
 – Corrected the appearance of U+1D1A9 in the Unicode Musical Symbols Range: it should have been equivalent to csymHalfDiminished, but it was incorrectly mapped to csymDiminished.
+
+16 October 2014 (Daniel Spreadbury) Bravura 1.07
+– Corrected the appearance of articMarcatoBelow, which was incorrectly flipped horizontally.
+– Updated flag8thUp, flag8thDown, flag16thUp, and flag16thDown to be 3¼ spaces in length (previously 2¾ spaces), in keeping with the recommendations for flag length in Gould and Ross.
+– Updated the glyphs in the 'Individual notes' (U+E1D0–U+E1EF) and 'Beamed groups of notes' (U+E1F0–U+E20F) such that notes have stem lengths of 2¾ spaces in length (previously 3½ for 'Individual notes', and inconsistently around 2¾ spaces in length for 'Beamed groups of notes'). These glyphs are intended to be used in close proximity to text set in other fonts, and the shorter stems provide a more harmonious appearance with typical text fonts.
