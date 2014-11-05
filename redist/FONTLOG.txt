@@ -10,7 +10,7 @@ Basic font information
 ----------------------
 Bravura is a Unicode typeface designed by Steinberg for its in-development music notation and scoring application.
 
-It is compliant with version 1.0 of the Standard Music Font Layout (SMuFL), a community-driven standard for how music symbols should be laid out in the Unicode Private Use Area (PUA) in the Basic Multilingual Plane (BMP) for compatibility between different scoring applications.
+It is compliant with version 1.05 of the Standard Music Font Layout (SMuFL), a community-driven standard for how music symbols should be laid out in the Unicode Private Use Area (PUA) in the Basic Multilingual Plane (BMP) for compatibility between different scoring applications.
 
 More information about Steinberg's scoring application can be found at:
 
@@ -257,3 +257,8 @@ Changelog
 – Corrected the appearance of articMarcatoBelow, which was incorrectly flipped horizontally.
 – Updated flag8thUp, flag8thDown, flag16thUp, and flag16thDown to be 3¼ spaces in length (previously 2¾ spaces), in keeping with the recommendations for flag length in Gould and Ross.
 – Updated the glyphs in the 'Individual notes' (U+E1D0–U+E1EF) and 'Beamed groups of notes' (U+E1F0–U+E20F) such that notes have stem lengths of 2¾ spaces in length (previously 3½ for 'Individual notes', and inconsistently around 2¾ spaces in length for 'Beamed groups of notes'). These glyphs are intended to be used in close proximity to text set in other fonts, and the shorter stems provide a more harmonious appearance with typical text fonts.
+
+5 November 2014 (Daniel Spreadbury) Bravura 1.08
+– Improved versions of G, F, and C clefs, and all their variants, including the forms with ligated numbers; thanks to Tucker Meyers.
+– Improved versions of the octave markers (8, 8va, 8vb, et al); thanks to Tucker Meyers.
+– Improved versions of the tuplet digits (0–9, plus colon); thanks to Tucker Meyers.
