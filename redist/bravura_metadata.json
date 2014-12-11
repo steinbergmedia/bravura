@@ -1,6 +1,6 @@
 {
     "fontName": "Bravura", 
-    "fontVersion": 1.08, 
+    "fontVersion": 1.10, 
 
     "engravingDefaults": {
         "arrowShaftThickness": 0.16, 
@@ -19563,6 +19563,26 @@
                 -0.564
             ]
         }, 
+        "octaveBassa": {
+            "bBoxNE": [
+                4.252, 
+                1.356
+            ], 
+            "bBoxSW": [
+                0.0, 
+                -0.04
+            ]
+        }, 
+        "octaveLoco": {
+            "bBoxNE": [
+                3.012, 
+                1.348
+            ], 
+            "bBoxSW": [
+                -0.004, 
+                -0.04
+            ]
+        }, 
         "octaveParensLeft": {
             "bBoxNE": [
                 0.652, 
@@ -20575,8 +20595,8 @@
         }, 
         "ottavaBassa": {
             "bBoxNE": [
-                3.384, 
-                2.26
+                3.356, 
+                1.852
             ], 
             "bBoxSW": [
                 0.0, 
@@ -20586,7 +20606,17 @@
         "ottavaBassaBa": {
             "bBoxNE": [
                 3.5, 
-                2.26
+                1.852
+            ], 
+            "bBoxSW": [
+                0.0, 
+                -0.04
+            ]
+        }, 
+        "ottavaBassaVb": {
+            "bBoxNE": [
+                3.184, 
+                1.852
             ], 
             "bBoxSW": [
                 0.0, 
@@ -23735,8 +23765,18 @@
         }, 
         "quindicesimaBassa": {
             "bBoxNE": [
-                5.088, 
-                2.26
+                5.14, 
+                1.844
+            ], 
+            "bBoxSW": [
+                0.0, 
+                -0.04
+            ]
+        }, 
+        "quindicesimaBassaMb": {
+            "bBoxNE": [
+                4.928, 
+                1.844
             ], 
             "bBoxSW": [
                 0.0, 
@@ -26245,8 +26285,18 @@
         }, 
         "ventiduesimaBassa": {
             "bBoxNE": [
-                5.54, 
-                2.26
+                5.512, 
+                1.852
+            ], 
+            "bBoxSW": [
+                0.016, 
+                -0.028
+            ]
+        }, 
+        "ventiduesimaBassaMb": {
+            "bBoxNE": [
+                5.34, 
+                1.852
             ], 
             "bBoxSW": [
                 0.016, 
