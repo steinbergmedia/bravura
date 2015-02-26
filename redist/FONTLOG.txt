@@ -276,3 +276,13 @@ Changelog
 – Improved metadata for flat-like accidentals, adding 'cutOutSE' points for more of them.
 – Added new 'noteheadOrigin' point to metadata to assist in the alignment of noteheads of different rhythmic values, e.g. the double whole note (breve) with two vertical lines to either side of the oval notehead.
 – Added new 'opticalCenter' point to metadata for dynamics glyphs, to assist in their correct alignment with noteheads and stems.
+
+26 February 2015 (Daniel Spreadbury) Bravura 1.15
+– Improved U+EB2A (elecPowerOnOff) so that it more closely matches the standard appearance of the IEEE 5009 symbol.
+– Improved consistency of registration of U+EB2E–U+EB33 (elecVolumeLevel...) glyphs.
+– Corrected typo in metadata for dynamicSforzadoFF glyph.
+– Improved U+E26A (accidentalParensLeft) and U+E26B (accidentalParensRight).
+– Fixed contour direction for many glyphs; this may have resulted in incorrect appearance of some glyphs in some display contexts, and when printed on some printers.
+– Resized all notehead glyphs, except for those in the 'Note name noteheads' (U+E150–U+E1AF), 'Individual notes' (U+E1D0–U+E1EF), and 'Beamed groups of notes' (U+E1F0–U+E20F) ranges, such that they are exactly 0.25 em (equivalent to one staff space) in height; previously, many of the notehead glyphs had been optically sized and were taller.
+– Added a new stylistic set (ss05) containing optically-sized versions of the most common noteheads (double whole, square double whole, whole, half, and black). These glyphs are oversized, and are designed to be the largest possible noteheads that will work with staff lines of the thickness recommended in the Bravura font-specific metadata.
+– Many glyphs have small improvements to outline quality (via 'checkOutlines -i -e' from the Adobe FDK).
