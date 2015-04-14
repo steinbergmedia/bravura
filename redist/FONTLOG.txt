@@ -286,3 +286,12 @@ Changelog
 – Resized all notehead glyphs, except for those in the 'Note name noteheads' (U+E150–U+E1AF), 'Individual notes' (U+E1D0–U+E1EF), and 'Beamed groups of notes' (U+E1F0–U+E20F) ranges, such that they are exactly 0.25 em (equivalent to one staff space) in height; previously, many of the notehead glyphs had been optically sized and were taller.
 – Added a new stylistic set (ss05) containing optically-sized versions of the most common noteheads (double whole, square double whole, whole, half, and black). These glyphs are oversized, and are designed to be the largest possible noteheads that will work with staff lines of the thickness recommended in the Bravura font-specific metadata.
 – Many glyphs have small improvements to outline quality (via 'checkOutlines -i -e' from the Adobe FDK).
+
+14 April 2015 (Daniel Spreadbury) Bravura 1.16
+– Improved versions of bold dynamics characters; thanks to Tucker Meyers.
+– Improved versions of keyboard pedalling characters; thanks to Tucker Meyers.
+– Improved versions of trill, turn etc. characters; thanks to Tucker Meyers.
+– Improved symmetry of the whole note name noteheads; removed counters from noteWholeEmpty and noteHalfEmpty, since these are designed to be printed in white underneath note name noteheads, so that stave lines and ledger lines are blanked out, making the note names in the counters of the note name noteheads clearer to read.
+– Corrected side-bearings on Sagittal accidentals.
+– Corrected registration of glyphs designed to be combined with stems (descriptions ending '...for stem'), now consistently visually centered around both x=0 and y=0.
+– Corrected vertical registration of precomposed square (U+E120, U+E121), round (U+E122, U+E123), and diamond (U+E138–U+E13B) cluster noteheads, so they are consistent with the cluster notehead components in the same range.
