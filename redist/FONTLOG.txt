@@ -295,3 +295,10 @@ Changelog
 – Corrected side-bearings on Sagittal accidentals.
 – Corrected registration of glyphs designed to be combined with stems (descriptions ending '...for stem'), now consistently visually centered around both x=0 and y=0.
 – Corrected vertical registration of precomposed square (U+E120, U+E121), round (U+E122, U+E123), and diamond (U+E138–U+E13B) cluster noteheads, so they are consistent with the cluster notehead components in the same range.
+
+29 April 2015 (Daniel Spreadbury) Bravura 1.17
+– Added new 'Metronome marks' for notes with 2.75sp stems to balance with text.
+– Reverted notes in 'Individual notes' range to have 3.5sp stems.
+– Added separate glyphs for v, b, a, m, both superscript and on the baseline, to 'Octaves supplement' range.
+– Added marcato-tenuto above and below to 'Articulations' range.
+– Added 6 with slashed stem (figbass6Raised2) to 'Figured bass' range.
