@@ -4,7 +4,7 @@
 ; This script requires the Inno Setup Preprocessor (ISPP) to be installed.
 ; Without ISPP installed, these #define statements will not compile.
 #define MyAppName "Bravura Font Family"
-#define MyAppVersion "1.17"
+#define MyAppVersion "1.18"
 #define MyAppPublisher "Steinberg Media Technologies GmbH"
 #define MyAppURL "http://www.steinberg.net/"
 
@@ -40,7 +40,7 @@ Source: "..\..\redist\bravura-text.md"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\..\redist\FONTLOG.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\..\redist\OFL.txt"; DestDir: "{app}"; Flags: ignoreversion
 Source: "..\..\redist\OFL-FAQ.txt"; DestDir: "{app}"; Flags: ignoreversion
-Source: "..\..\redist\otf\Bravura.otf"; DestDir: "{fonts}"; FontInstall: "Bravura"; Flags: onlyifdoesntexist uninsneveruninstall fontisnttruetype
-Source: "..\..\redist\otf\BravuraText.otf"; DestDir: "{fonts}"; FontInstall: "Bravura Text"; Flags: onlyifdoesntexist uninsneveruninstall fontisnttruetype            
+Source: "..\..\redist\otf\Bravura.otf"; DestDir: "{fonts}"; FontInstall: "Bravura"; Flags: uninsneveruninstall fontisnttruetype
+Source: "..\..\redist\otf\BravuraText.otf"; DestDir: "{fonts}"; FontInstall: "Bravura Text"; Flags: uninsneveruninstall fontisnttruetype            
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
