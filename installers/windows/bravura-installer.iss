@@ -4,7 +4,7 @@
 ; This script requires the Inno Setup Preprocessor (ISPP) to be installed.
 ; Without ISPP installed, these #define statements will not compile.
 #define MyAppName "Bravura Font Family"
-#define MyAppVersion "1.18"
+#define MyAppVersion "1.204"
 #define MyAppPublisher "Steinberg Media Technologies GmbH"
 #define MyAppURL "http://www.steinberg.net/"
 
