@@ -344,3 +344,9 @@ Changelog
 – Added stylistic alternates for wiggleArpeggiatoUpSwash and wiggleArpeggiatoDownSwash based on Couperin's 'L'Art de Toucher Le Clavecin'
 – Changed the appearance of clefBridge (U+E078) to match the design used by Lachenmann in "...zwei Gefühle..." and added a stylistic alternate with the previous design
 – Fixed the appearance of figBassRaised5 to have a forward slash rather than a backward slash, the correct appearance for a diminished fifth (U+EA5A)
+
+27 January 2017 (Daniel Spreadbury) Bravura 1.211
+– Added dynamicCombinedSeparatorSlash (U+E549)
+– Added stylistic alternates for tuplet digits in lighter weight
+– Improved the tessellation of multi-segment lines, particularly the various wiggles for trills at different speeds.
+– Fixed timesig9denominator and timesig9numerator ligatures
