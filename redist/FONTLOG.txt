@@ -350,3 +350,7 @@ Changelog
 – Added stylistic alternates for tuplet digits in lighter weight
 – Improved the tessellation of multi-segment lines, particularly the various wiggles for trills at different speeds.
 – Fixed timesig9denominator and timesig9numerator ligatures
+
+11 February 2017 (Daniel Spreadbury) Bravura 1.212
+– Added keyboardPedalParensLeft (U+E676) and keyboardPedalParensRight (U+E677)
+– Added vulgar fractions for 1/8 (U+215B), 1/4 (U+00BC), 1/2 (U+00BD), 3/4 (U+00BE)
