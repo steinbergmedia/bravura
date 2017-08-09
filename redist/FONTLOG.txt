@@ -354,3 +354,20 @@ Changelog
 11 February 2017 (Daniel Spreadbury) Bravura 1.212
 – Added keyboardPedalParensLeft (U+E676) and keyboardPedalParensRight (U+E677)
 – Added vulgar fractions for 1/8 (U+215B), 1/4 (U+00BC), 1/2 (U+00BD), 3/4 (U+00BE)
+
+18 February 2017 (Daniel Spreadbury) Bravura 1.213
+– Decreased the width of the space character (U+0020) to 100du
+
+27 May 2017 (Daniel Spreadbury) Bravura 1.214
+– Improved the appearance of the glyphs in the 'Chord symbols' range (U+E870–U+E87F)
+– Added new 'Chord symbol accidentals' range (U+ED60-U+ED66)
+– BEWARE: Renumbered the optional glyphs from U+F400 upwards; many optional glyphs have moved
+
+31 May 2017 (Daniel Spreadbury) Bravura 1.215
+– Added optical variants for some chord symbols glyphs, e.g. +/- for augmented/diminished chord quality
+
+3 June 2017 (Daniel Spreadbury) Bravura 1.216
+– Added optical variants for chord symbol accidentals shown at smaller sizes
+
+18 July 2017 (Daniel Spreadbury) Bravura 1.217
+– Improved the shape and stem connection data of glyphs in the 'Shape note noteheads' range (U+E1B0–U+E1CF)
