@@ -1,6 +1,6 @@
 {
     "fontName": "Bravura", 
-    "fontVersion": 1.218, 
+    "fontVersion": 1.24, 
 
     "engravingDefaults": {
         "arrowShaftThickness": 0.16, 
@@ -19335,12 +19335,12 @@
         }, 
         "noteShapeDiamondBlack": {
             "bBoxNE": [
-                1.308, 
-                0.5
+                1.444, 
+                0.548
             ], 
             "bBoxSW": [
                 0.0, 
-                -0.5
+                -0.552
             ]
         }, 
         "noteShapeDiamondDoubleWhole": {
@@ -19355,12 +19355,12 @@
         }, 
         "noteShapeDiamondWhite": {
             "bBoxNE": [
-                1.312, 
-                0.5
+                1.444, 
+                0.544
             ], 
             "bBoxSW": [
                 0.0, 
-                -0.5
+                -0.556
             ]
         }, 
         "noteShapeIsoscelesTriangleBlack": {
@@ -19425,7 +19425,7 @@
         }, 
         "noteShapeMoonBlack": {
             "bBoxNE": [
-                1.516, 
+                1.444, 
                 0.5
             ], 
             "bBoxSW": [
@@ -19475,7 +19475,7 @@
         }, 
         "noteShapeMoonWhite": {
             "bBoxNE": [
-                1.516, 
+                1.444, 
                 0.5
             ], 
             "bBoxSW": [
@@ -35009,7 +35009,7 @@
                 0.0
             ], 
             "stemUpSE": [
-                1.308, 
+                1.444, 
                 0.0
             ]
         }, 
@@ -35025,7 +35025,7 @@
                 0.0
             ], 
             "stemUpSE": [
-                1.312, 
+                1.436, 
                 0.0
             ]
         }, 
@@ -35087,7 +35087,7 @@
                 0.068
             ], 
             "stemUpSE": [
-                1.516, 
+                1.44, 
                 0.068
             ]
         }, 
@@ -35129,7 +35129,7 @@
                 0.072
             ], 
             "stemUpSE": [
-                1.516, 
+                1.444, 
                 0.068
             ]
         }, 
@@ -35188,11 +35188,11 @@
         "noteShapeSquareBlack": {
             "stemDownNW": [
                 0.0, 
-                -0.46
+                0.46
             ], 
             "stemUpSE": [
                 1.44, 
-                0.46
+                -0.46
             ]
         }, 
         "noteShapeSquareDoubleWhole": {
@@ -35204,11 +35204,11 @@
         "noteShapeSquareWhite": {
             "stemDownNW": [
                 0.0, 
-                -0.46
+                0.46
             ], 
             "stemUpSE": [
                 1.44, 
-                0.46
+                -0.46
             ]
         }, 
         "noteShapeTriangleLeftBlack": {

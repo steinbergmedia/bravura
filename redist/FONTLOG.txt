@@ -371,3 +371,9 @@ Changelog
 
 18 July 2017 (Daniel Spreadbury) Bravura 1.217
 – Improved the shape and stem connection data of glyphs in the 'Shape note noteheads' range (U+E1B0–U+E1CF)
+
+9 August 2017 (Daniel Spreadbury) Bravura 1.218
+– Added new glyphs to the 'Fingering' range, with digits between 6 and 9, parentheses, brackets, and middle dot separator
+
+10 August 2017 (Daniel Spreadbury) Bravura 1.219
+– Improved the shape and stem connection data of glyphs in the 'Shape note noteheads' range (U+E1B0–U+E1CF)
