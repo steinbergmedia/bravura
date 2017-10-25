@@ -377,3 +377,18 @@ Changelog
 
 10 August 2017 (Daniel Spreadbury) Bravura 1.219
 – Improved the shape and stem connection data of glyphs in the 'Shape note noteheads' range (U+E1B0–U+E1CF)
+
+16 August 2017 (Daniel Spreadbury) Bravura 1.220
+– Increased the size of black and half noteheads in 'Shape note noteheads' range (U+E1B0–U+E1CF)
+
+25 October 2017 (Daniel Spreadbury) Bravura 1.250
+– Added new 'Kahnotation' range, with thanks to Matthew Dougherty, Sam Katz and Sam Weber (U+EDA0–U+EDF1)
+– Added new 'German organ tablature' range, with thanks to John McKean (U+EE00–U+EE3F)
+– Added new 'Clefs supplement' range, including new universal Indian drum notation clef (U+ED70)
+– Added new 'Fingering supplement' range, with italic fingering digits, parentheses and brackets (U+ED80-U+ED8D)
+– Added more separators for brass fingering (U+ED2D–U+ED2E) to 'Fingering' range
+– Added pictBeaterMalletDown (U+E7EC), pictBeaterBrassMalletsRight (U+E7ED), pictBeaterBrassMalletsLeft (U+E7EE), pictTriangleBeaterPlain (U+E7EF) to 'Beaters pictograms' range
+– Added vocalHalbGesungen (semi-sprechgesang) to 'Vocal techniques' range (U+E64B)
+– Added separate glyphs for upper dot, lower dot and central slash (U+E503–U+E505) to 'Bar repeats' range, to allow construction of bar repeats for arbitrary number of bars
+– Added lyricsTextRepeat glyph (U+E555) to 'Lyrics' range
+– Added one-handed roll (U+E233) and double lateral roll (U+E234) for mallet percussion, popularised by Leigh Howard Stevens, to 'Tremolos' range
