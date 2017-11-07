@@ -392,3 +392,7 @@ Changelog
 – Added separate glyphs for upper dot, lower dot and central slash (U+E503–U+E505) to 'Bar repeats' range, to allow construction of bar repeats for arbitrary number of bars
 – Added lyricsTextRepeat glyph (U+E555) to 'Lyrics' range
 – Added one-handed roll (U+E233) and double lateral roll (U+E234) for mallet percussion, popularised by Leigh Howard Stevens, to 'Tremolos' range
+
+7 November 2017 (Daniel Spreadbury) Bravura 1.251
+– Resized csymAugmented and csymMinor
+– Adjusted the side bearings of noteheads whose stem attachment points should be offset from the edge of the glyph's bounding box
