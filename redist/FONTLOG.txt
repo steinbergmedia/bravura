@@ -396,3 +396,6 @@ Changelog
 7 November 2017 (Daniel Spreadbury) Bravura 1.251
 – Resized csymAugmented and csymMinor
 – Adjusted the side bearings of noteheads whose stem attachment points should be offset from the edge of the glyph's bounding box
+
+14 November 2017 (Daniel Spreadbury) Bravura Text 1.252
+– Corrected scaling for chord symbols glyphs in Bravura Text
