@@ -402,3 +402,6 @@ Changelog
 
 11 December 2017 (Daniel Spreadbury) Bravura 1.260
 – Added new stylistic set (ss08) for oversized versions of the 'Slash notehead' range
+
+16 December 2017 (Daniel Spreadbury) Bravura Text 1.261
+– Corrected scaling for chord symbols standard accidentals glyphs in Bravura Text
