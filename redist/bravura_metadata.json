@@ -1,6 +1,6 @@
 {
     "fontName": "Bravura", 
-    "fontVersion": 1.271, 
+    "fontVersion": 1.272, 
 
     "engravingDefaults": {
         "arrowShaftThickness": 0.16, 
@@ -29395,11 +29395,11 @@
         }, 
         "timeSig0Large": {
             "bBoxNE": [
-                0.968, 
+                0.484, 
                 1.032
             ], 
             "bBoxSW": [
-                0.04, 
+                0.02, 
                 -1.032
             ]
         }, 
@@ -29485,11 +29485,11 @@
         }, 
         "timeSig1Large": {
             "bBoxNE": [
-                0.528, 
+                0.264, 
                 1.0
             ], 
             "bBoxSW": [
-                0.036, 
+                0.016, 
                 -1.0
             ]
         }, 
@@ -29565,11 +29565,11 @@
         }, 
         "timeSig2Large": {
             "bBoxNE": [
-                1.024, 
+                0.512, 
                 1.0
             ], 
             "bBoxSW": [
-                0.068, 
+                0.032, 
                 -1.0
             ]
         }, 
@@ -29665,11 +29665,11 @@
         }, 
         "timeSig3Large": {
             "bBoxNE": [
-                0.988, 
+                0.492, 
                 1.016
             ], 
             "bBoxSW": [
-                0.036, 
+                0.016, 
                 -1.016
             ]
         }, 
@@ -29775,11 +29775,11 @@
         }, 
         "timeSig4Large": {
             "bBoxNE": [
-                1.024, 
+                0.512, 
                 1.0
             ], 
             "bBoxSW": [
-                0.04, 
+                0.02, 
                 -1.0
             ]
         }, 
@@ -29865,11 +29865,11 @@
         }, 
         "timeSig5Large": {
             "bBoxNE": [
-                0.996, 
+                0.496, 
                 1.016
             ], 
             "bBoxSW": [
-                0.04, 
+                0.02, 
                 -1.016
             ]
         }, 
@@ -29965,11 +29965,11 @@
         }, 
         "timeSig6Large": {
             "bBoxNE": [
-                0.98, 
+                0.488, 
                 1.016
             ], 
             "bBoxSW": [
-                0.032, 
+                0.016, 
                 -1.016
             ]
         }, 
@@ -30065,11 +30065,11 @@
         }, 
         "timeSig7Large": {
             "bBoxNE": [
-                0.988, 
+                0.492, 
                 1.0
             ], 
             "bBoxSW": [
-                0.036, 
+                0.016, 
                 -1.0
             ]
         }, 
@@ -30155,11 +30155,11 @@
         }, 
         "timeSig8Large": {
             "bBoxNE": [
-                0.992, 
+                0.496, 
                 1.016
             ], 
             "bBoxSW": [
-                0.036, 
+                0.016, 
                 -1.016
             ]
         }, 
@@ -30235,11 +30235,11 @@
         }, 
         "timeSig9Large": {
             "bBoxNE": [
-                0.98, 
+                0.488, 
                 1.032
             ], 
             "bBoxSW": [
-                0.04, 
+                0.02, 
                 -1.032
             ]
         }, 
@@ -30315,7 +30315,7 @@
         }, 
         "timeSigBracketLeftLarge": {
             "bBoxNE": [
-                0.372, 
+                0.184, 
                 2.0
             ], 
             "bBoxSW": [
@@ -30345,7 +30345,7 @@
         }, 
         "timeSigBracketLeftSmallLarge": {
             "bBoxNE": [
-                0.372, 
+                0.184, 
                 1.316
             ], 
             "bBoxSW": [
@@ -30375,11 +30375,11 @@
         }, 
         "timeSigBracketRightLarge": {
             "bBoxNE": [
-                0.404, 
+                0.2, 
                 2.0
             ], 
             "bBoxSW": [
-                0.032, 
+                0.016, 
                 -2.0
             ]
         }, 
@@ -30405,11 +30405,11 @@
         }, 
         "timeSigBracketRightSmallLarge": {
             "bBoxNE": [
-                0.404, 
+                0.2, 
                 1.316
             ], 
             "bBoxSW": [
-                0.028, 
+                0.012, 
                 -1.32
             ]
         }, 
@@ -30455,7 +30455,7 @@
         }, 
         "timeSigCommaLarge": {
             "bBoxNE": [
-                0.208, 
+                0.104, 
                 0.348
             ], 
             "bBoxSW": [
@@ -30485,11 +30485,11 @@
         }, 
         "timeSigCommonLarge": {
             "bBoxNE": [
-                1.06, 
+                0.528, 
                 1.032
             ], 
             "bBoxSW": [
-                0.04, 
+                0.02, 
                 -1.036
             ]
         }, 
@@ -30535,7 +30535,7 @@
         }, 
         "timeSigCut2Large": {
             "bBoxNE": [
-                0.956, 
+                0.476, 
                 1.316
             ], 
             "bBoxSW": [
@@ -30565,7 +30565,7 @@
         }, 
         "timeSigCut3Large": {
             "bBoxNE": [
-                0.948, 
+                0.472, 
                 1.316
             ], 
             "bBoxSW": [
@@ -30595,11 +30595,11 @@
         }, 
         "timeSigCutCommonLarge": {
             "bBoxNE": [
-                1.06, 
+                0.528, 
                 1.252
             ], 
             "bBoxSW": [
-                0.036, 
+                0.016, 
                 -1.256
             ]
         }, 
@@ -30645,7 +30645,7 @@
         }, 
         "timeSigEqualsLarge": {
             "bBoxNE": [
-                0.896, 
+                0.448, 
                 0.356
             ], 
             "bBoxSW": [
@@ -30675,7 +30675,7 @@
         }, 
         "timeSigFractionHalfLarge": {
             "bBoxNE": [
-                1.196, 
+                0.596, 
                 1.028
             ], 
             "bBoxSW": [
@@ -30705,7 +30705,7 @@
         }, 
         "timeSigFractionOneThirdLarge": {
             "bBoxNE": [
-                1.196, 
+                0.596, 
                 1.028
             ], 
             "bBoxSW": [
@@ -30735,7 +30735,7 @@
         }, 
         "timeSigFractionQuarterLarge": {
             "bBoxNE": [
-                1.152, 
+                0.576, 
                 1.028
             ], 
             "bBoxSW": [
@@ -30765,7 +30765,7 @@
         }, 
         "timeSigFractionThreeQuartersLarge": {
             "bBoxNE": [
-                1.264, 
+                0.632, 
                 1.028
             ], 
             "bBoxSW": [
@@ -30795,7 +30795,7 @@
         }, 
         "timeSigFractionTwoThirdsLarge": {
             "bBoxNE": [
-                1.364, 
+                0.68, 
                 1.028
             ], 
             "bBoxSW": [
@@ -30825,7 +30825,7 @@
         }, 
         "timeSigFractionalSlashLarge": {
             "bBoxNE": [
-                0.584, 
+                0.292, 
                 1.048
             ], 
             "bBoxSW": [
@@ -30855,7 +30855,7 @@
         }, 
         "timeSigMinusLarge": {
             "bBoxNE": [
-                0.896, 
+                0.448, 
                 0.092
             ], 
             "bBoxSW": [
@@ -30885,7 +30885,7 @@
         }, 
         "timeSigMultiplyLarge": {
             "bBoxNE": [
-                0.728, 
+                0.364, 
                 0.508
             ], 
             "bBoxSW": [
@@ -30915,7 +30915,7 @@
         }, 
         "timeSigOpenPendereckiLarge": {
             "bBoxNE": [
-                1.016, 
+                0.508, 
                 0.7
             ], 
             "bBoxSW": [
@@ -30945,7 +30945,7 @@
         }, 
         "timeSigParensLeftLarge": {
             "bBoxNE": [
-                0.408, 
+                0.204, 
                 1.976
             ], 
             "bBoxSW": [
@@ -30975,7 +30975,7 @@
         }, 
         "timeSigParensLeftSmallLarge": {
             "bBoxNE": [
-                0.436, 
+                0.216, 
                 1.316
             ], 
             "bBoxSW": [
@@ -31005,7 +31005,7 @@
         }, 
         "timeSigParensRightLarge": {
             "bBoxNE": [
-                0.408, 
+                0.204, 
                 1.976
             ], 
             "bBoxSW": [
@@ -31035,11 +31035,11 @@
         }, 
         "timeSigParensRightSmallLarge": {
             "bBoxNE": [
-                0.356, 
+                0.176, 
                 1.316
             ], 
             "bBoxSW": [
-                -0.08, 
+                -0.04, 
                 -1.316
             ]
         }, 
@@ -31065,7 +31065,7 @@
         }, 
         "timeSigPlusLarge": {
             "bBoxNE": [
-                0.644, 
+                0.32, 
                 0.596
             ], 
             "bBoxSW": [
@@ -31095,7 +31095,7 @@
         }, 
         "timeSigPlusSmallLarge": {
             "bBoxNE": [
-                0.896, 
+                0.448, 
                 0.628
             ], 
             "bBoxSW": [
@@ -31125,7 +31125,7 @@
         }, 
         "timeSigSlashLarge": {
             "bBoxNE": [
-                0.892, 
+                0.444, 
                 2.0
             ], 
             "bBoxSW": [
@@ -31155,7 +31155,7 @@
         }, 
         "timeSigXLarge": {
             "bBoxNE": [
-                0.808, 
+                0.404, 
                 1.048
             ], 
             "bBoxSW": [
@@ -34267,10 +34267,6 @@
                 {
                     "codepoint": "U+F45D", 
                     "name": "timeSig0Small"
-                }, 
-                {
-                    "codepoint": "U+F506", 
-                    "name": "timeSig0Narrow"
                 }
             ]
         }, 
@@ -34283,10 +34279,6 @@
                 {
                     "codepoint": "U+F45E", 
                     "name": "timeSig1Small"
-                }, 
-                {
-                    "codepoint": "U+F507", 
-                    "name": "timeSig1Narrow"
                 }
             ]
         }, 
@@ -34299,10 +34291,6 @@
                 {
                     "codepoint": "U+F45F", 
                     "name": "timeSig2Small"
-                }, 
-                {
-                    "codepoint": "U+F508", 
-                    "name": "timeSig2Narrow"
                 }
             ]
         }, 
@@ -34315,10 +34303,6 @@
                 {
                     "codepoint": "U+F460", 
                     "name": "timeSig3Small"
-                }, 
-                {
-                    "codepoint": "U+F509", 
-                    "name": "timeSig3Narrow"
                 }
             ]
         }, 
@@ -34331,10 +34315,6 @@
                 {
                     "codepoint": "U+F461", 
                     "name": "timeSig4Small"
-                }, 
-                {
-                    "codepoint": "U+F50A", 
-                    "name": "timeSig4Narrow"
                 }
             ]
         }, 
@@ -34347,10 +34327,6 @@
                 {
                     "codepoint": "U+F462", 
                     "name": "timeSig5Small"
-                }, 
-                {
-                    "codepoint": "U+F50B", 
-                    "name": "timeSig5Narrow"
                 }
             ]
         }, 
@@ -34363,10 +34339,6 @@
                 {
                     "codepoint": "U+F463", 
                     "name": "timeSig6Small"
-                }, 
-                {
-                    "codepoint": "U+F50C", 
-                    "name": "timeSig6Narrow"
                 }
             ]
         }, 
@@ -34379,10 +34351,6 @@
                 {
                     "codepoint": "U+F464", 
                     "name": "timeSig7Small"
-                }, 
-                {
-                    "codepoint": "U+F50D", 
-                    "name": "timeSig7Narrow"
                 }
             ]
         }, 
@@ -34395,10 +34363,6 @@
                 {
                     "codepoint": "U+F465", 
                     "name": "timeSig8Small"
-                }, 
-                {
-                    "codepoint": "U+F50E", 
-                    "name": "timeSig8Narrow"
                 }
             ]
         }, 
@@ -34411,70 +34375,6 @@
                 {
                     "codepoint": "U+F466", 
                     "name": "timeSig9Small"
-                }, 
-                {
-                    "codepoint": "U+F50F", 
-                    "name": "timeSig9Narrow"
-                }
-            ]
-        }, 
-        "timeSigBracketLeft": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FF", 
-                    "name": "timeSigBracketLeftLarge"
-                }, 
-                {
-                    "codepoint": "U+F524", 
-                    "name": "timeSigBracketLeftNarrow"
-                }
-            ]
-        }, 
-        "timeSigBracketLeftSmall": {
-            "alternates": [
-                {
-                    "codepoint": "U+F501", 
-                    "name": "timeSigBracketLeftSmallLarge"
-                }, 
-                {
-                    "codepoint": "U+F526", 
-                    "name": "timeSigBracketLeftSmallNarrow"
-                }
-            ]
-        }, 
-        "timeSigBracketRight": {
-            "alternates": [
-                {
-                    "codepoint": "U+F500", 
-                    "name": "timeSigBracketRightLarge"
-                }, 
-                {
-                    "codepoint": "U+F525", 
-                    "name": "timeSigBracketRightNarrow"
-                }
-            ]
-        }, 
-        "timeSigBracketRightSmall": {
-            "alternates": [
-                {
-                    "codepoint": "U+F502", 
-                    "name": "timeSigBracketRightSmallLarge"
-                }, 
-                {
-                    "codepoint": "U+F527", 
-                    "name": "timeSigBracketRightSmallNarrow"
-                }
-            ]
-        }, 
-        "timeSigComma": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F7", 
-                    "name": "timeSigCommaLarge"
-                }, 
-                {
-                    "codepoint": "U+F51C", 
-                    "name": "timeSigCommaNarrow"
                 }
             ]
         }, 
@@ -34483,34 +34383,6 @@
                 {
                     "codepoint": "U+F44A", 
                     "name": "timeSigCommonLarge"
-                }, 
-                {
-                    "codepoint": "U+F510", 
-                    "name": "timeSigCommonNarrow"
-                }
-            ]
-        }, 
-        "timeSigCut2": {
-            "alternates": [
-                {
-                    "codepoint": "U+F504", 
-                    "name": "timeSigCut2Large"
-                }, 
-                {
-                    "codepoint": "U+F529", 
-                    "name": "timeSigCut2Narrow"
-                }
-            ]
-        }, 
-        "timeSigCut3": {
-            "alternates": [
-                {
-                    "codepoint": "U+F505", 
-                    "name": "timeSigCut3Large"
-                }, 
-                {
-                    "codepoint": "U+F52A", 
-                    "name": "timeSigCut3Narrow"
                 }
             ]
         }, 
@@ -34519,178 +34391,6 @@
                 {
                     "codepoint": "U+F44B", 
                     "name": "timeSigCutCommonLarge"
-                }, 
-                {
-                    "codepoint": "U+F511", 
-                    "name": "timeSigCutCommonNarrow"
-                }
-            ]
-        }, 
-        "timeSigEquals": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F0", 
-                    "name": "timeSigEqualsLarge"
-                }, 
-                {
-                    "codepoint": "U+F515", 
-                    "name": "timeSigEqualsNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionHalf": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F9", 
-                    "name": "timeSigFractionHalfLarge"
-                }, 
-                {
-                    "codepoint": "U+F51E", 
-                    "name": "timeSigFractionHalfNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionOneThird": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FB", 
-                    "name": "timeSigFractionOneThirdLarge"
-                }, 
-                {
-                    "codepoint": "U+F520", 
-                    "name": "timeSigFractionOneThirdNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionQuarter": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F8", 
-                    "name": "timeSigFractionQuarterLarge"
-                }, 
-                {
-                    "codepoint": "U+F51D", 
-                    "name": "timeSigFractionQuarterNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionThreeQuarters": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FA", 
-                    "name": "timeSigFractionThreeQuartersLarge"
-                }, 
-                {
-                    "codepoint": "U+F51F", 
-                    "name": "timeSigFractionThreeQuartersNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionTwoThirds": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FC", 
-                    "name": "timeSigFractionTwoThirdsLarge"
-                }, 
-                {
-                    "codepoint": "U+F521", 
-                    "name": "timeSigFractionTwoThirdsNarrow"
-                }
-            ]
-        }, 
-        "timeSigFractionalSlash": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4EF", 
-                    "name": "timeSigFractionalSlashLarge"
-                }, 
-                {
-                    "codepoint": "U+F514", 
-                    "name": "timeSigFractionalSlashNarrow"
-                }
-            ]
-        }, 
-        "timeSigMinus": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F1", 
-                    "name": "timeSigMinusLarge"
-                }, 
-                {
-                    "codepoint": "U+F516", 
-                    "name": "timeSigMinusNarrow"
-                }
-            ]
-        }, 
-        "timeSigMultiply": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F2", 
-                    "name": "timeSigMultiplyLarge"
-                }, 
-                {
-                    "codepoint": "U+F517", 
-                    "name": "timeSigMultiplyNarrow"
-                }
-            ]
-        }, 
-        "timeSigOpenPenderecki": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FE", 
-                    "name": "timeSigOpenPendereckiLarge"
-                }, 
-                {
-                    "codepoint": "U+F523", 
-                    "name": "timeSigOpenPendereckiNarrow"
-                }
-            ]
-        }, 
-        "timeSigParensLeft": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F5", 
-                    "name": "timeSigParensLeftLarge"
-                }, 
-                {
-                    "codepoint": "U+F51A", 
-                    "name": "timeSigParensLeftNarrow"
-                }
-            ]
-        }, 
-        "timeSigParensLeftSmall": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F3", 
-                    "name": "timeSigParensLeftSmallLarge"
-                }, 
-                {
-                    "codepoint": "U+F518", 
-                    "name": "timeSigParensLeftSmallNarrow"
-                }
-            ]
-        }, 
-        "timeSigParensRight": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F6", 
-                    "name": "timeSigParensRightLarge"
-                }, 
-                {
-                    "codepoint": "U+F51B", 
-                    "name": "timeSigParensRightNarrow"
-                }
-            ]
-        }, 
-        "timeSigParensRightSmall": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4F4", 
-                    "name": "timeSigParensRightSmallLarge"
-                }, 
-                {
-                    "codepoint": "U+F519", 
-                    "name": "timeSigParensRightSmallNarrow"
                 }
             ]
         }, 
@@ -34699,46 +34399,6 @@
                 {
                     "codepoint": "U+F44C", 
                     "name": "timeSigPlusLarge"
-                }, 
-                {
-                    "codepoint": "U+F512", 
-                    "name": "timeSigPlusNarrow"
-                }
-            ]
-        }, 
-        "timeSigPlusSmall": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4EE", 
-                    "name": "timeSigPlusSmallLarge"
-                }, 
-                {
-                    "codepoint": "U+F513", 
-                    "name": "timeSigPlusSmallNarrow"
-                }
-            ]
-        }, 
-        "timeSigSlash": {
-            "alternates": [
-                {
-                    "codepoint": "U+F503", 
-                    "name": "timeSigSlashLarge"
-                }, 
-                {
-                    "codepoint": "U+F528", 
-                    "name": "timeSigSlashNarrow"
-                }
-            ]
-        }, 
-        "timeSigX": {
-            "alternates": [
-                {
-                    "codepoint": "U+F4FD", 
-                    "name": "timeSigXLarge"
-                }, 
-                {
-                    "codepoint": "U+F522", 
-                    "name": "timeSigXNarrow"
                 }
             ]
         }, 
@@ -38105,8 +37765,8 @@
                 0.5
             ], 
             "stemUpSE": [
-                1.44, 
-                0.5
+                1.436, 
+                -0.5
             ]
         }, 
         "noteShapeTriangleLeftDoubleWhole": {
@@ -38121,8 +37781,8 @@
                 0.5
             ], 
             "stemUpSE": [
-                1.44, 
-                0.5
+                1.436, 
+                -0.5
             ]
         }, 
         "noteShapeTriangleRightBlack": {
@@ -40207,7 +39867,7 @@
 
     "ligatures": {
         "accidentalDoubleFlatParens": {
-            "codepoint": "U+F5D2", 
+            "codepoint": "U+F595", 
             "componentGlyphs": [
                 "accidentalParensLeft", 
                 "accidentalDoubleFlat", 
@@ -40216,7 +39876,7 @@
             "description": "Parenthesised double flat"
         }, 
         "accidentalDoubleSharpParens": {
-            "codepoint": "U+F5D1", 
+            "codepoint": "U+F594", 
             "componentGlyphs": [
                 "accidentalParensLeft", 
                 "accidentalDoubleSharp", 
@@ -40225,7 +39885,7 @@
             "description": "Parenthesised double sharp"
         }, 
         "accidentalFlatJohnstonDown": {
-            "codepoint": "U+F5D8", 
+            "codepoint": "U+F59B", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "accidentalJohnstonDown"
@@ -40233,7 +39893,7 @@
             "description": "Flat-down arrow"
         }, 
         "accidentalFlatJohnstonEl": {
-            "codepoint": "U+F5D6", 
+            "codepoint": "U+F599", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "accidentalJohnstonEl"
@@ -40241,7 +39901,7 @@
             "description": "Flat-inverted seven"
         }, 
         "accidentalFlatJohnstonElDown": {
-            "codepoint": "U+F5E4", 
+            "codepoint": "U+F5A7", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "accidentalJohnstonEl", 
@@ -40250,7 +39910,7 @@
             "description": "Flat-inverted seven-down arrow"
         }, 
         "accidentalFlatJohnstonUp": {
-            "codepoint": "U+F5D7", 
+            "codepoint": "U+F59A", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "accidentalJohnstonUp"
@@ -40258,7 +39918,7 @@
             "description": "Flat-up arrow"
         }, 
         "accidentalFlatJohnstonUpEl": {
-            "codepoint": "U+F5E3", 
+            "codepoint": "U+F5A6", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "accidentalJohnstonUp", 
@@ -40267,7 +39927,7 @@
             "description": "Flat-up arrow-inverted seven"
         }, 
         "accidentalFlatParens": {
-            "codepoint": "U+F5CE", 
+            "codepoint": "U+F591", 
             "componentGlyphs": [
                 "accidentalParensLeft", 
                 "accidentalFlat", 
@@ -40276,7 +39936,7 @@
             "description": "Parenthesised flat"
         }, 
         "accidentalJohnstonDownEl": {
-            "codepoint": "U+F5DE", 
+            "codepoint": "U+F5A1", 
             "componentGlyphs": [
                 "accidentalJohnstonDown", 
                 "accidentalJohnstonEl"
@@ -40284,7 +39944,7 @@
             "description": "Down arrow-inverted seven"
         }, 
         "accidentalJohnstonSevenDown": {
-            "codepoint": "U+F5DC", 
+            "codepoint": "U+F59F", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalJohnstonDown"
@@ -40292,7 +39952,7 @@
             "description": "Seven-down arrow"
         }, 
         "accidentalJohnstonSevenFlat": {
-            "codepoint": "U+F5DA", 
+            "codepoint": "U+F59D", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalFlat"
@@ -40300,7 +39960,7 @@
             "description": "Seven-flat"
         }, 
         "accidentalJohnstonSevenFlatDown": {
-            "codepoint": "U+F5E6", 
+            "codepoint": "U+F5A9", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalFlat", 
@@ -40309,7 +39969,7 @@
             "description": "Seven-flat-down arrow"
         }, 
         "accidentalJohnstonSevenFlatUp": {
-            "codepoint": "U+F5E5", 
+            "codepoint": "U+F5A8", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalFlat", 
@@ -40318,7 +39978,7 @@
             "description": "Seven-flat-up arrow"
         }, 
         "accidentalJohnstonSevenSharp": {
-            "codepoint": "U+F5D9", 
+            "codepoint": "U+F59C", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalSharp"
@@ -40326,7 +39986,7 @@
             "description": "Seven-sharp"
         }, 
         "accidentalJohnstonSevenSharpDown": {
-            "codepoint": "U+F5E2", 
+            "codepoint": "U+F5A5", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalSharp", 
@@ -40335,7 +39995,7 @@
             "description": "Seven-sharp-down arrow"
         }, 
         "accidentalJohnstonSevenSharpUp": {
-            "codepoint": "U+F5E1", 
+            "codepoint": "U+F5A4", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalSharp", 
@@ -40344,7 +40004,7 @@
             "description": "Seven-sharp-up arrow"
         }, 
         "accidentalJohnstonSevenUp": {
-            "codepoint": "U+F5DB", 
+            "codepoint": "U+F59E", 
             "componentGlyphs": [
                 "accidentalJohnstonSeven", 
                 "accidentalJohnstonUp"
@@ -40352,7 +40012,7 @@
             "description": "Seven-up arrow"
         }, 
         "accidentalJohnstonUpEl": {
-            "codepoint": "U+F5DD", 
+            "codepoint": "U+F5A0", 
             "componentGlyphs": [
                 "accidentalJohnstonUp", 
                 "accidentalJohnstonEl"
@@ -40360,7 +40020,7 @@
             "description": "Up arrow-inverted seven"
         }, 
         "accidentalNaturalParens": {
-            "codepoint": "U+F5CF", 
+            "codepoint": "U+F592", 
             "componentGlyphs": [
                 "accidentalParensLeft", 
                 "accidentalNatural", 
@@ -40369,7 +40029,7 @@
             "description": "Parenthesised natural"
         }, 
         "accidentalSharpJohnstonDown": {
-            "codepoint": "U+F5D5", 
+            "codepoint": "U+F598", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "accidentalJohnstonDown"
@@ -40377,7 +40037,7 @@
             "description": "Sharp-down arrow"
         }, 
         "accidentalSharpJohnstonDownEl": {
-            "codepoint": "U+F5E0", 
+            "codepoint": "U+F5A3", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "accidentalJohnstonDown", 
@@ -40386,7 +40046,7 @@
             "description": "Sharp-down arrow-inverted seven"
         }, 
         "accidentalSharpJohnstonEl": {
-            "codepoint": "U+F5D3", 
+            "codepoint": "U+F596", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "accidentalJohnstonEl"
@@ -40394,7 +40054,7 @@
             "description": "Sharp-inverted seven"
         }, 
         "accidentalSharpJohnstonUp": {
-            "codepoint": "U+F5D4", 
+            "codepoint": "U+F597", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "accidentalJohnstonUp"
@@ -40402,7 +40062,7 @@
             "description": "Sharp-up arrow"
         }, 
         "accidentalSharpJohnstonUpEl": {
-            "codepoint": "U+F5DF", 
+            "codepoint": "U+F5A2", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "accidentalJohnstonUp", 
@@ -40411,7 +40071,7 @@
             "description": "Sharp-up arrow-inverted seven"
         }, 
         "accidentalSharpParens": {
-            "codepoint": "U+F5D0", 
+            "codepoint": "U+F593", 
             "componentGlyphs": [
                 "accidentalParensLeft", 
                 "accidentalSharp", 
@@ -40420,7 +40080,7 @@
             "description": "Parenthesised sharp"
         }, 
         "fClef5Below": {
-            "codepoint": "U+F52B", 
+            "codepoint": "U+F4EE", 
             "componentGlyphs": [
                 "fClef", 
                 "tuplet5"
@@ -40428,7 +40088,7 @@
             "description": "F clef, 5 below"
         }, 
         "gClef0Below": {
-            "codepoint": "U+F52C", 
+            "codepoint": "U+F4EF", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet0"
@@ -40436,7 +40096,7 @@
             "description": "G clef, 0 below"
         }, 
         "gClef10Below": {
-            "codepoint": "U+F52D", 
+            "codepoint": "U+F4F0", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40445,7 +40105,7 @@
             "description": "G clef, 10 below"
         }, 
         "gClef11Below": {
-            "codepoint": "U+F52E", 
+            "codepoint": "U+F4F1", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40454,7 +40114,7 @@
             "description": "G clef, 11 below"
         }, 
         "gClef12Below": {
-            "codepoint": "U+F52F", 
+            "codepoint": "U+F4F2", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40463,7 +40123,7 @@
             "description": "G clef, 12 below"
         }, 
         "gClef13Below": {
-            "codepoint": "U+F530", 
+            "codepoint": "U+F4F3", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40472,7 +40132,7 @@
             "description": "G clef, 13 below"
         }, 
         "gClef14Below": {
-            "codepoint": "U+F531", 
+            "codepoint": "U+F4F4", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40481,7 +40141,7 @@
             "description": "G clef, 14 below"
         }, 
         "gClef15Below": {
-            "codepoint": "U+F532", 
+            "codepoint": "U+F4F5", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40490,7 +40150,7 @@
             "description": "G clef, 15 below"
         }, 
         "gClef16Below": {
-            "codepoint": "U+F533", 
+            "codepoint": "U+F4F6", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40499,7 +40159,7 @@
             "description": "G clef, 16 below"
         }, 
         "gClef17Below": {
-            "codepoint": "U+F534", 
+            "codepoint": "U+F4F7", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40508,7 +40168,7 @@
             "description": "G clef, 17 below"
         }, 
         "gClef2Above": {
-            "codepoint": "U+F535", 
+            "codepoint": "U+F4F8", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet2"
@@ -40516,7 +40176,7 @@
             "description": "G clef, 2 above"
         }, 
         "gClef2Below": {
-            "codepoint": "U+F536", 
+            "codepoint": "U+F4F9", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet2"
@@ -40524,7 +40184,7 @@
             "description": "G clef, 2 below"
         }, 
         "gClef3Above": {
-            "codepoint": "U+F537", 
+            "codepoint": "U+F4FA", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet3"
@@ -40532,7 +40192,7 @@
             "description": "G clef, 3 above"
         }, 
         "gClef3Below": {
-            "codepoint": "U+F538", 
+            "codepoint": "U+F4FB", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet3"
@@ -40540,7 +40200,7 @@
             "description": "G clef, 3 below"
         }, 
         "gClef4Above": {
-            "codepoint": "U+F539", 
+            "codepoint": "U+F4FC", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet4"
@@ -40548,7 +40208,7 @@
             "description": "G clef, 4 above"
         }, 
         "gClef4Below": {
-            "codepoint": "U+F53A", 
+            "codepoint": "U+F4FD", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet4"
@@ -40556,7 +40216,7 @@
             "description": "G clef, 4 below"
         }, 
         "gClef5Above": {
-            "codepoint": "U+F53B", 
+            "codepoint": "U+F4FE", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet5"
@@ -40564,7 +40224,7 @@
             "description": "G clef, 5 above"
         }, 
         "gClef5Below": {
-            "codepoint": "U+F53C", 
+            "codepoint": "U+F4FF", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet5"
@@ -40572,7 +40232,7 @@
             "description": "G clef, 5 below"
         }, 
         "gClef6Above": {
-            "codepoint": "U+F53D", 
+            "codepoint": "U+F500", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet6"
@@ -40580,7 +40240,7 @@
             "description": "G clef, 6 above"
         }, 
         "gClef6Below": {
-            "codepoint": "U+F53E", 
+            "codepoint": "U+F501", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet6"
@@ -40588,7 +40248,7 @@
             "description": "G clef, 6 below"
         }, 
         "gClef7Above": {
-            "codepoint": "U+F53F", 
+            "codepoint": "U+F502", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet7"
@@ -40596,7 +40256,7 @@
             "description": "G clef, 7 above"
         }, 
         "gClef7Below": {
-            "codepoint": "U+F540", 
+            "codepoint": "U+F503", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet7"
@@ -40604,7 +40264,7 @@
             "description": "G clef, 7 below"
         }, 
         "gClef8Above": {
-            "codepoint": "U+F541", 
+            "codepoint": "U+F504", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet8"
@@ -40612,7 +40272,7 @@
             "description": "G clef, 8 above"
         }, 
         "gClef8Below": {
-            "codepoint": "U+F542", 
+            "codepoint": "U+F505", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet8"
@@ -40620,7 +40280,7 @@
             "description": "G clef, 8 below"
         }, 
         "gClef9Above": {
-            "codepoint": "U+F543", 
+            "codepoint": "U+F506", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet9"
@@ -40628,7 +40288,7 @@
             "description": "G clef, 9 above"
         }, 
         "gClef9Below": {
-            "codepoint": "U+F544", 
+            "codepoint": "U+F507", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet9"
@@ -40636,7 +40296,7 @@
             "description": "G clef, 9 below"
         }, 
         "gClefFlat10Below": {
-            "codepoint": "U+F545", 
+            "codepoint": "U+F508", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40646,7 +40306,7 @@
             "description": "G clef, flat 10 below"
         }, 
         "gClefFlat11Below": {
-            "codepoint": "U+F546", 
+            "codepoint": "U+F509", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40656,7 +40316,7 @@
             "description": "G clef, flat 11 below"
         }, 
         "gClefFlat13Below": {
-            "codepoint": "U+F547", 
+            "codepoint": "U+F50A", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40666,7 +40326,7 @@
             "description": "G clef, flat 13 below"
         }, 
         "gClefFlat14Below": {
-            "codepoint": "U+F548", 
+            "codepoint": "U+F50B", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40676,7 +40336,7 @@
             "description": "G clef, flat 14 below"
         }, 
         "gClefFlat15Below": {
-            "codepoint": "U+F549", 
+            "codepoint": "U+F50C", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40686,7 +40346,7 @@
             "description": "G clef, flat 15 below"
         }, 
         "gClefFlat16Below": {
-            "codepoint": "U+F54A", 
+            "codepoint": "U+F50D", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40696,7 +40356,7 @@
             "description": "G clef, flat 16 below"
         }, 
         "gClefFlat1Below": {
-            "codepoint": "U+F54B", 
+            "codepoint": "U+F50E", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40705,7 +40365,7 @@
             "description": "G clef, flat 1 below"
         }, 
         "gClefFlat2Above": {
-            "codepoint": "U+F54C", 
+            "codepoint": "U+F50F", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet2", 
@@ -40714,7 +40374,7 @@
             "description": "G clef, flat 2 above"
         }, 
         "gClefFlat2Below": {
-            "codepoint": "U+F54D", 
+            "codepoint": "U+F510", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40723,7 +40383,7 @@
             "description": "G clef, flat 2 below"
         }, 
         "gClefFlat3Above": {
-            "codepoint": "U+F54E", 
+            "codepoint": "U+F511", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet3", 
@@ -40732,7 +40392,7 @@
             "description": "G clef, flat 3 above"
         }, 
         "gClefFlat3Below": {
-            "codepoint": "U+F54F", 
+            "codepoint": "U+F512", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40741,7 +40401,7 @@
             "description": "G clef, flat 3 below"
         }, 
         "gClefFlat4Below": {
-            "codepoint": "U+F550", 
+            "codepoint": "U+F513", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40750,7 +40410,7 @@
             "description": "G clef, flat 4 below"
         }, 
         "gClefFlat5Above": {
-            "codepoint": "U+F551", 
+            "codepoint": "U+F514", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet5", 
@@ -40759,7 +40419,7 @@
             "description": "G clef, flat 5 above"
         }, 
         "gClefFlat6Above": {
-            "codepoint": "U+F552", 
+            "codepoint": "U+F515", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet6", 
@@ -40768,7 +40428,7 @@
             "description": "G clef, flat 6 above"
         }, 
         "gClefFlat6Below": {
-            "codepoint": "U+F553", 
+            "codepoint": "U+F516", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40777,7 +40437,7 @@
             "description": "G clef, flat 6 below"
         }, 
         "gClefFlat7Above": {
-            "codepoint": "U+F554", 
+            "codepoint": "U+F517", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet7", 
@@ -40786,7 +40446,7 @@
             "description": "G clef, flat 7 above"
         }, 
         "gClefFlat7Below": {
-            "codepoint": "U+F555", 
+            "codepoint": "U+F518", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40795,7 +40455,7 @@
             "description": "G clef, flat 7 below"
         }, 
         "gClefFlat8Above": {
-            "codepoint": "U+F556", 
+            "codepoint": "U+F519", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet8", 
@@ -40804,7 +40464,7 @@
             "description": "G clef, flat 8 above"
         }, 
         "gClefFlat9Above": {
-            "codepoint": "U+F557", 
+            "codepoint": "U+F51A", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet9", 
@@ -40813,7 +40473,7 @@
             "description": "G clef, flat 9 above"
         }, 
         "gClefFlat9Below": {
-            "codepoint": "U+F558", 
+            "codepoint": "U+F51B", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalFlat", 
@@ -40822,7 +40482,7 @@
             "description": "G clef, flat 9 below"
         }, 
         "gClefNat2Below": {
-            "codepoint": "U+F559", 
+            "codepoint": "U+F51C", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalNatural", 
@@ -40831,7 +40491,7 @@
             "description": "G clef, natural 2 below"
         }, 
         "gClefNatural10Below": {
-            "codepoint": "U+F55A", 
+            "codepoint": "U+F51D", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40841,7 +40501,7 @@
             "description": "G clef, natural 10 below"
         }, 
         "gClefNatural13Below": {
-            "codepoint": "U+F55B", 
+            "codepoint": "U+F51E", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40851,7 +40511,7 @@
             "description": "G clef, natural 13 below"
         }, 
         "gClefNatural17Below": {
-            "codepoint": "U+F55C", 
+            "codepoint": "U+F51F", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40861,7 +40521,7 @@
             "description": "G clef, natural 17 below"
         }, 
         "gClefNatural2Above": {
-            "codepoint": "U+F55D", 
+            "codepoint": "U+F520", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet2", 
@@ -40870,7 +40530,7 @@
             "description": "G clef, natural 2 above"
         }, 
         "gClefNatural3Above": {
-            "codepoint": "U+F55E", 
+            "codepoint": "U+F521", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet3", 
@@ -40879,7 +40539,7 @@
             "description": "G clef, natural 3 above"
         }, 
         "gClefNatural3Below": {
-            "codepoint": "U+F55F", 
+            "codepoint": "U+F522", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalNatural", 
@@ -40888,7 +40548,7 @@
             "description": "G clef, natural 3 below"
         }, 
         "gClefNatural6Above": {
-            "codepoint": "U+F560", 
+            "codepoint": "U+F523", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet6", 
@@ -40897,7 +40557,7 @@
             "description": "G clef, natural 6 above"
         }, 
         "gClefNatural6Below": {
-            "codepoint": "U+F561", 
+            "codepoint": "U+F524", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalNatural", 
@@ -40906,7 +40566,7 @@
             "description": "G clef, natural 6 below"
         }, 
         "gClefNatural7Above": {
-            "codepoint": "U+F562", 
+            "codepoint": "U+F525", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet7", 
@@ -40915,7 +40575,7 @@
             "description": "G clef, natural 7 above"
         }, 
         "gClefNatural9Above": {
-            "codepoint": "U+F563", 
+            "codepoint": "U+F526", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet9", 
@@ -40924,7 +40584,7 @@
             "description": "G clef, natural 9 above"
         }, 
         "gClefNatural9Below": {
-            "codepoint": "U+F564", 
+            "codepoint": "U+F527", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalNatural", 
@@ -40933,7 +40593,7 @@
             "description": "G clef, natural 9 below"
         }, 
         "gClefSharp12Below": {
-            "codepoint": "U+F565", 
+            "codepoint": "U+F528", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "tuplet1", 
@@ -40943,7 +40603,7 @@
             "description": "G clef, sharp 12 below"
         }, 
         "gClefSharp1Above": {
-            "codepoint": "U+F566", 
+            "codepoint": "U+F529", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet1", 
@@ -40952,7 +40612,7 @@
             "description": "G clef, sharp 1 above"
         }, 
         "gClefSharp4Above": {
-            "codepoint": "U+F567", 
+            "codepoint": "U+F52A", 
             "componentGlyphs": [
                 "gClefLigatedNumberAbove", 
                 "tuplet4", 
@@ -40961,7 +40621,7 @@
             "description": "G clef, sharp 4 above"
         }, 
         "gClefSharp5Below": {
-            "codepoint": "U+F568", 
+            "codepoint": "U+F52B", 
             "componentGlyphs": [
                 "gClefLigatedNumberBelow", 
                 "accidentalSharp", 
@@ -40970,7 +40630,7 @@
             "description": "G clef, sharp 5 below"
         }, 
         "mensuralFusaBlackStemDown": {
-            "codepoint": "U+F569", 
+            "codepoint": "U+F52C", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagFusa"
@@ -40978,7 +40638,7 @@
             "description": "Fusa black, stem down"
         }, 
         "mensuralFusaBlackStemUp": {
-            "codepoint": "U+F56A", 
+            "codepoint": "U+F52D", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagFusa"
@@ -40986,7 +40646,7 @@
             "description": "Fusa black, stem up"
         }, 
         "mensuralFusaBlackVoidStemDown": {
-            "codepoint": "U+F56B", 
+            "codepoint": "U+F52E", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagFusa"
@@ -40994,7 +40654,7 @@
             "description": "Fusa black and void, stem down"
         }, 
         "mensuralFusaBlackVoidStemUp": {
-            "codepoint": "U+F56C", 
+            "codepoint": "U+F52F", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagFusa"
@@ -41002,7 +40662,7 @@
             "description": "Fusa black and void, stem up"
         }, 
         "mensuralFusaVoidStemDown": {
-            "codepoint": "U+F56D", 
+            "codepoint": "U+F530", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagFusa"
@@ -41010,7 +40670,7 @@
             "description": "Fusa void, stem down"
         }, 
         "mensuralFusaVoidStemUp": {
-            "codepoint": "U+F56E", 
+            "codepoint": "U+F531", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagFusa"
@@ -41018,7 +40678,7 @@
             "description": "Fusa void, stem up"
         }, 
         "mensuralLongaBlackStemDownLeft": {
-            "codepoint": "U+F56F", 
+            "codepoint": "U+F532", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadLongaBlack"
@@ -41026,7 +40686,7 @@
             "description": "Longa black, stem down left"
         }, 
         "mensuralLongaBlackStemDownRight": {
-            "codepoint": "U+F570", 
+            "codepoint": "U+F533", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaBlack", 
                 "mensuralCombStemDown"
@@ -41034,7 +40694,7 @@
             "description": "Longa black, stem down right"
         }, 
         "mensuralLongaBlackStemUpLeft": {
-            "codepoint": "U+F571", 
+            "codepoint": "U+F534", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadLongaBlack"
@@ -41042,7 +40702,7 @@
             "description": "Longa black, stem up left"
         }, 
         "mensuralLongaBlackStemUpRight": {
-            "codepoint": "U+F572", 
+            "codepoint": "U+F535", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaBlack", 
                 "mensuralCombStemUp"
@@ -41050,7 +40710,7 @@
             "description": "Longa black, stem up right"
         }, 
         "mensuralLongaBlackVoidStemDownLeft": {
-            "codepoint": "U+F573", 
+            "codepoint": "U+F536", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadLongaBlackVoid"
@@ -41058,7 +40718,7 @@
             "description": "Longa black and void, stem down left"
         }, 
         "mensuralLongaBlackVoidStemDownRight": {
-            "codepoint": "U+F574", 
+            "codepoint": "U+F537", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaBlackVoid", 
                 "mensuralCombStemDown"
@@ -41066,7 +40726,7 @@
             "description": "Longa black and void, stem down right"
         }, 
         "mensuralLongaBlackVoidStemUpLeft": {
-            "codepoint": "U+F575", 
+            "codepoint": "U+F538", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadLongaBlackVoid"
@@ -41074,7 +40734,7 @@
             "description": "Longa black and void, stem up left"
         }, 
         "mensuralLongaBlackVoidStemUpRight": {
-            "codepoint": "U+F576", 
+            "codepoint": "U+F539", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaBlackVoid", 
                 "mensuralCombStemUp"
@@ -41082,7 +40742,7 @@
             "description": "Longa black and void, stem up right"
         }, 
         "mensuralLongaVoidStemDownLeft": {
-            "codepoint": "U+F577", 
+            "codepoint": "U+F53A", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadLongaVoid"
@@ -41090,7 +40750,7 @@
             "description": "Longa void, stem down left"
         }, 
         "mensuralLongaVoidStemDownRight": {
-            "codepoint": "U+F578", 
+            "codepoint": "U+F53B", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaVoid", 
                 "mensuralCombStemDown"
@@ -41098,7 +40758,7 @@
             "description": "Longa void, stem down right"
         }, 
         "mensuralLongaVoidStemUpLeft": {
-            "codepoint": "U+F579", 
+            "codepoint": "U+F53C", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadLongaVoid"
@@ -41106,7 +40766,7 @@
             "description": "Longa void, stem up left"
         }, 
         "mensuralLongaVoidStemUpRight": {
-            "codepoint": "U+F57A", 
+            "codepoint": "U+F53D", 
             "componentGlyphs": [
                 "mensuralNoteheadLongaVoid", 
                 "mensuralCombStemUp"
@@ -41114,7 +40774,7 @@
             "description": "Longa void, stem up right"
         }, 
         "mensuralMaximaBlackStemDownLeft": {
-            "codepoint": "U+F57B", 
+            "codepoint": "U+F53E", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadMaximaBlack"
@@ -41122,7 +40782,7 @@
             "description": "Maxima black, stem down left"
         }, 
         "mensuralMaximaBlackStemDownRight": {
-            "codepoint": "U+F57C", 
+            "codepoint": "U+F53F", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaBlack", 
                 "mensuralCombStemDown"
@@ -41130,7 +40790,7 @@
             "description": "Maxima black, stem down right"
         }, 
         "mensuralMaximaBlackStemUpLeft": {
-            "codepoint": "U+F57D", 
+            "codepoint": "U+F540", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadMaximaBlack"
@@ -41138,7 +40798,7 @@
             "description": "Maxima black, stem up left"
         }, 
         "mensuralMaximaBlackStemUpRight": {
-            "codepoint": "U+F57E", 
+            "codepoint": "U+F541", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaBlack", 
                 "mensuralCombStemUp"
@@ -41146,7 +40806,7 @@
             "description": "Maxima black, stem up right"
         }, 
         "mensuralMaximaBlackVoidStemDownLeft": {
-            "codepoint": "U+F57F", 
+            "codepoint": "U+F542", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadMaximaBlackVoid"
@@ -41154,7 +40814,7 @@
             "description": "Maxima black and void, stem down left"
         }, 
         "mensuralMaximaBlackVoidStemDownRight": {
-            "codepoint": "U+F580", 
+            "codepoint": "U+F543", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaBlackVoid", 
                 "mensuralCombStemDown"
@@ -41162,7 +40822,7 @@
             "description": "Maxima black and void, stem down right"
         }, 
         "mensuralMaximaBlackVoidStemUpLeft": {
-            "codepoint": "U+F581", 
+            "codepoint": "U+F544", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadMaximaBlackVoid"
@@ -41170,7 +40830,7 @@
             "description": "Maxima black and void, stem up left"
         }, 
         "mensuralMaximaBlackVoidStemUpRight": {
-            "codepoint": "U+F582", 
+            "codepoint": "U+F545", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaBlackVoid", 
                 "mensuralCombStemUp"
@@ -41178,7 +40838,7 @@
             "description": "Maxima black and void, stem up right"
         }, 
         "mensuralMaximaVoidStemDownLeft": {
-            "codepoint": "U+F583", 
+            "codepoint": "U+F546", 
             "componentGlyphs": [
                 "mensuralCombStemDown", 
                 "mensuralNoteheadMaximaVoid"
@@ -41186,7 +40846,7 @@
             "description": "Maxima void, stem down left"
         }, 
         "mensuralMaximaVoidStemDownRight": {
-            "codepoint": "U+F584", 
+            "codepoint": "U+F547", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaVoid", 
                 "mensuralCombStemDown"
@@ -41194,7 +40854,7 @@
             "description": "Maxima void, stem down right"
         }, 
         "mensuralMaximaVoidStemUpLeft": {
-            "codepoint": "U+F585", 
+            "codepoint": "U+F548", 
             "componentGlyphs": [
                 "mensuralCombStemUp", 
                 "mensuralNoteheadMaximaVoid"
@@ -41202,7 +40862,7 @@
             "description": "Maxima void, stem up left"
         }, 
         "mensuralMaximaVoidStemUpRight": {
-            "codepoint": "U+F586", 
+            "codepoint": "U+F549", 
             "componentGlyphs": [
                 "mensuralNoteheadMaximaVoid", 
                 "mensuralCombStemUp"
@@ -41210,7 +40870,7 @@
             "description": "Maxima void, stem up right"
         }, 
         "mensuralMinimaBlackStemDown": {
-            "codepoint": "U+F587", 
+            "codepoint": "U+F54A", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDown"
@@ -41218,7 +40878,7 @@
             "description": "Minima black, stem down"
         }, 
         "mensuralMinimaBlackStemDownExtendedFlag": {
-            "codepoint": "U+F588", 
+            "codepoint": "U+F54B", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagExtended"
@@ -41226,7 +40886,7 @@
             "description": "Minima black, stem down with extended flag"
         }, 
         "mensuralMinimaBlackStemDownFlagLeft": {
-            "codepoint": "U+F589", 
+            "codepoint": "U+F54C", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagLeft"
@@ -41234,7 +40894,7 @@
             "description": "Minima black, stem down with flag left"
         }, 
         "mensuralMinimaBlackStemDownFlagRight": {
-            "codepoint": "U+F58A", 
+            "codepoint": "U+F54D", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagRight"
@@ -41242,7 +40902,7 @@
             "description": "Minima black, stem down with flag right"
         }, 
         "mensuralMinimaBlackStemDownFlaredFlag": {
-            "codepoint": "U+F58B", 
+            "codepoint": "U+F54E", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagFlared"
@@ -41250,7 +40910,7 @@
             "description": "Minima black, stem down with flared flag"
         }, 
         "mensuralMinimaBlackStemUp": {
-            "codepoint": "U+F58C", 
+            "codepoint": "U+F54F", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUp"
@@ -41258,7 +40918,7 @@
             "description": "Minima black, stem up"
         }, 
         "mensuralMinimaBlackStemUpExtendedFlag": {
-            "codepoint": "U+F58D", 
+            "codepoint": "U+F550", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagExtended"
@@ -41266,7 +40926,7 @@
             "description": "Minima black, stem up with extended flag"
         }, 
         "mensuralMinimaBlackStemUpFlagLeft": {
-            "codepoint": "U+F58E", 
+            "codepoint": "U+F551", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagLeft"
@@ -41274,7 +40934,7 @@
             "description": "Minima black, stem up with flag left"
         }, 
         "mensuralMinimaBlackStemUpFlagRight": {
-            "codepoint": "U+F58F", 
+            "codepoint": "U+F552", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagRight"
@@ -41282,7 +40942,7 @@
             "description": "Minima black, stem up with flag right"
         }, 
         "mensuralMinimaBlackStemUpFlaredFlag": {
-            "codepoint": "U+F590", 
+            "codepoint": "U+F553", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagFlared"
@@ -41290,7 +40950,7 @@
             "description": "Minima black, stem up with flared flag"
         }, 
         "mensuralMinimaBlackVoidStemDown": {
-            "codepoint": "U+F591", 
+            "codepoint": "U+F554", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDown"
@@ -41298,7 +40958,7 @@
             "description": "Minima black and void, stem down"
         }, 
         "mensuralMinimaBlackVoidStemDownExtendedFlag": {
-            "codepoint": "U+F592", 
+            "codepoint": "U+F555", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagExtended"
@@ -41306,7 +40966,7 @@
             "description": "Minima black and void, stem down with extended flag"
         }, 
         "mensuralMinimaBlackVoidStemDownFlagLeft": {
-            "codepoint": "U+F593", 
+            "codepoint": "U+F556", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagLeft"
@@ -41314,7 +40974,7 @@
             "description": "Minima black and void, stem down with flag left"
         }, 
         "mensuralMinimaBlackVoidStemDownFlagRight": {
-            "codepoint": "U+F594", 
+            "codepoint": "U+F557", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagRight"
@@ -41322,7 +40982,7 @@
             "description": "Minima black and void, stem down with flag right"
         }, 
         "mensuralMinimaBlackVoidStemDownFlaredFlag": {
-            "codepoint": "U+F595", 
+            "codepoint": "U+F558", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagFlared"
@@ -41330,7 +40990,7 @@
             "description": "Minima black and void, stem down with flared flag"
         }, 
         "mensuralMinimaBlackVoidStemUp": {
-            "codepoint": "U+F596", 
+            "codepoint": "U+F559", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUp"
@@ -41338,7 +40998,7 @@
             "description": "Minima black and void, stem up"
         }, 
         "mensuralMinimaBlackVoidStemUpExtendedFlag": {
-            "codepoint": "U+F597", 
+            "codepoint": "U+F55A", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagExtended"
@@ -41346,7 +41006,7 @@
             "description": "Minima black and void, stem up with extended flag"
         }, 
         "mensuralMinimaBlackVoidStemUpFlagLeft": {
-            "codepoint": "U+F598", 
+            "codepoint": "U+F55B", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagLeft"
@@ -41354,7 +41014,7 @@
             "description": "Minima black and void, stem up with flag left"
         }, 
         "mensuralMinimaBlackVoidStemUpFlagRight": {
-            "codepoint": "U+F599", 
+            "codepoint": "U+F55C", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagRight"
@@ -41362,7 +41022,7 @@
             "description": "Minima black and void, stem up with flag right"
         }, 
         "mensuralMinimaBlackVoidStemUpFlaredFlag": {
-            "codepoint": "U+F59A", 
+            "codepoint": "U+F55D", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagFlared"
@@ -41370,7 +41030,7 @@
             "description": "Minima black and void, stem up with flared flag"
         }, 
         "mensuralMinimaVoidStemDown": {
-            "codepoint": "U+F59B", 
+            "codepoint": "U+F55E", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDown"
@@ -41378,7 +41038,7 @@
             "description": "Minima void, stem down"
         }, 
         "mensuralMinimaVoidStemDownExtendedFlag": {
-            "codepoint": "U+F59C", 
+            "codepoint": "U+F55F", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagExtended"
@@ -41386,7 +41046,7 @@
             "description": "Minima void, stem down with extended flag"
         }, 
         "mensuralMinimaVoidStemDownFlagLeft": {
-            "codepoint": "U+F59D", 
+            "codepoint": "U+F560", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagLeft"
@@ -41394,7 +41054,7 @@
             "description": "Minima void, stem down with flag left"
         }, 
         "mensuralMinimaVoidStemDownFlagRight": {
-            "codepoint": "U+F59E", 
+            "codepoint": "U+F561", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagRight"
@@ -41402,7 +41062,7 @@
             "description": "Minima void, stem down with flag right"
         }, 
         "mensuralMinimaVoidStemDownFlaredFlag": {
-            "codepoint": "U+F59F", 
+            "codepoint": "U+F562", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagFlared"
@@ -41410,7 +41070,7 @@
             "description": "Minima void, stem down with flared flag"
         }, 
         "mensuralMinimaVoidStemUp": {
-            "codepoint": "U+F5A1", 
+            "codepoint": "U+F564", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUp"
@@ -41418,7 +41078,7 @@
             "description": "Minima void, stem up"
         }, 
         "mensuralMinimaVoidStemUpExtendedFlag": {
-            "codepoint": "U+F5A0", 
+            "codepoint": "U+F563", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagExtended"
@@ -41426,7 +41086,7 @@
             "description": "Minima void, stem up with extended flag"
         }, 
         "mensuralMinimaVoidStemUpFlagLeft": {
-            "codepoint": "U+F5A2", 
+            "codepoint": "U+F565", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagLeft"
@@ -41434,7 +41094,7 @@
             "description": "Minima void, stem up with flag left"
         }, 
         "mensuralMinimaVoidStemUpFlagRight": {
-            "codepoint": "U+F5A3", 
+            "codepoint": "U+F566", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagRight"
@@ -41442,7 +41102,7 @@
             "description": "Minima void, stem up with flag right"
         }, 
         "mensuralMinimaVoidStemUpFlaredFlag": {
-            "codepoint": "U+F5A4", 
+            "codepoint": "U+F567", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagFlared"
@@ -41450,7 +41110,7 @@
             "description": "Minima void, stem up with flared flag"
         }, 
         "mensuralSemiminimaBlackStemDown": {
-            "codepoint": "U+F5A5", 
+            "codepoint": "U+F568", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemDownFlagSemiminima"
@@ -41458,7 +41118,7 @@
             "description": "Semiminima black, stem down"
         }, 
         "mensuralSemiminimaBlackStemUp": {
-            "codepoint": "U+F5A6", 
+            "codepoint": "U+F569", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlack", 
                 "mensuralCombStemUpFlagSemiminima"
@@ -41466,7 +41126,7 @@
             "description": "Semiminima black, stem up"
         }, 
         "mensuralSemiminimaBlackVoidStemDown": {
-            "codepoint": "U+F5A7", 
+            "codepoint": "U+F56A", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemDownFlagSemiminima"
@@ -41474,7 +41134,7 @@
             "description": "Semiminima black and void, stem down"
         }, 
         "mensuralSemiminimaBlackVoidStemUp": {
-            "codepoint": "U+F5A8", 
+            "codepoint": "U+F56B", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisBlackVoid", 
                 "mensuralCombStemUpFlagSemiminima"
@@ -41482,7 +41142,7 @@
             "description": "Semiminima black and void, stem up"
         }, 
         "mensuralSemiminimaVoidStemDown": {
-            "codepoint": "U+F5A9", 
+            "codepoint": "U+F56C", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemDownFlagSemiminima"
@@ -41490,7 +41150,7 @@
             "description": "Semiminima void, stem down"
         }, 
         "mensuralSemiminimaVoidStemUp": {
-            "codepoint": "U+F5AA", 
+            "codepoint": "U+F56D", 
             "componentGlyphs": [
                 "mensuralNoteheadSemibrevisVoid", 
                 "mensuralCombStemUpFlagSemiminima"
@@ -41498,7 +41158,7 @@
             "description": "Semiminima void, stem up"
         }, 
         "noteheadBlackParens": {
-            "codepoint": "U+F5CA", 
+            "codepoint": "U+F58D", 
             "componentGlyphs": [
                 "noteheadParenthesisLeft", 
                 "noteheadBlack", 
@@ -41507,7 +41167,7 @@
             "description": "Parenthesised black notehead"
         }, 
         "noteheadDoubleWholeParens": {
-            "codepoint": "U+F5CD", 
+            "codepoint": "U+F590", 
             "componentGlyphs": [
                 "noteheadParenthesisLeft", 
                 "noteheadDoubleWhole", 
@@ -41516,7 +41176,7 @@
             "description": "Parenthesised double whole (breve) notehead"
         }, 
         "noteheadHalfParens": {
-            "codepoint": "U+F5CB", 
+            "codepoint": "U+F58E", 
             "componentGlyphs": [
                 "noteheadParenthesisLeft", 
                 "noteheadHalf", 
@@ -41525,7 +41185,7 @@
             "description": "Parenthesised half notehead"
         }, 
         "noteheadWholeParens": {
-            "codepoint": "U+F5CC", 
+            "codepoint": "U+F58F", 
             "componentGlyphs": [
                 "noteheadParenthesisLeft", 
                 "noteheadWhole", 
@@ -41534,7 +41194,7 @@
             "description": "Parenthesised whole (semibreve) notehead"
         }, 
         "ornamentTrillFlatAbove": {
-            "codepoint": "U+F5AB", 
+            "codepoint": "U+F56E", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "ornamentTrill"
@@ -41542,7 +41202,7 @@
             "description": "Trill, flat above"
         }, 
         "ornamentTrillNaturalAbove": {
-            "codepoint": "U+F5AC", 
+            "codepoint": "U+F56F", 
             "componentGlyphs": [
                 "accidentalNatural", 
                 "ornamentTrill"
@@ -41550,7 +41210,7 @@
             "description": "Trill, natural above"
         }, 
         "ornamentTrillSharpAbove": {
-            "codepoint": "U+F5AD", 
+            "codepoint": "U+F570", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "ornamentTrill"
@@ -41558,7 +41218,7 @@
             "description": "Trill, sharp above"
         }, 
         "ornamentTurnFlatAbove": {
-            "codepoint": "U+F5AE", 
+            "codepoint": "U+F571", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "ornamentTurn"
@@ -41566,7 +41226,7 @@
             "description": "Turn, flat above"
         }, 
         "ornamentTurnFlatAboveSharpBelow": {
-            "codepoint": "U+F5AF", 
+            "codepoint": "U+F572", 
             "componentGlyphs": [
                 "accidentalFlat", 
                 "ornamentTurn", 
@@ -41575,7 +41235,7 @@
             "description": "Turn, flat above, sharp below"
         }, 
         "ornamentTurnFlatBelow": {
-            "codepoint": "U+F5B0", 
+            "codepoint": "U+F573", 
             "componentGlyphs": [
                 "ornamentTurn", 
                 "accidentalFlat"
@@ -41583,7 +41243,7 @@
             "description": "Turn, flat below"
         }, 
         "ornamentTurnNaturalAbove": {
-            "codepoint": "U+F5B1", 
+            "codepoint": "U+F574", 
             "componentGlyphs": [
                 "accidentalNatural", 
                 "ornamentTurn"
@@ -41591,7 +41251,7 @@
             "description": "Turn, natural above"
         }, 
         "ornamentTurnNaturalBelow": {
-            "codepoint": "U+F5B2", 
+            "codepoint": "U+F575", 
             "componentGlyphs": [
                 "ornamentTurn", 
                 "accidentalNatural"
@@ -41599,7 +41259,7 @@
             "description": "Turn, natural below"
         }, 
         "ornamentTurnSharpAbove": {
-            "codepoint": "U+F5B3", 
+            "codepoint": "U+F576", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "ornamentTurn"
@@ -41607,7 +41267,7 @@
             "description": "Turn, sharp above"
         }, 
         "ornamentTurnSharpAboveFlatBelow": {
-            "codepoint": "U+F5B4", 
+            "codepoint": "U+F577", 
             "componentGlyphs": [
                 "accidentalSharp", 
                 "ornamentTurn", 
@@ -41616,7 +41276,7 @@
             "description": "Turn, sharp above, flat below"
         }, 
         "ornamentTurnSharpBelow": {
-            "codepoint": "U+F5B5", 
+            "codepoint": "U+F578", 
             "componentGlyphs": [
                 "ornamentTurn", 
                 "accidentalSharp"
@@ -41624,7 +41284,7 @@
             "description": "Turn, sharp below"
         }, 
         "timeSig0Denominator": {
-            "codepoint": "U+F5B6", 
+            "codepoint": "U+F579", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig0"
@@ -41632,7 +41292,7 @@
             "description": "Time signature 0 (denominator)"
         }, 
         "timeSig0Numerator": {
-            "codepoint": "U+F5B7", 
+            "codepoint": "U+F57A", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig0"
@@ -41640,7 +41300,7 @@
             "description": "Time signature 0 (numerator)"
         }, 
         "timeSig12over8": {
-            "codepoint": "U+F5F3", 
+            "codepoint": "U+F5B6", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig1", 
@@ -41652,7 +41312,7 @@
             "description": "12/8 time signature"
         }, 
         "timeSig1Denominator": {
-            "codepoint": "U+F5B8", 
+            "codepoint": "U+F57B", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig1"
@@ -41660,7 +41320,7 @@
             "description": "Time signature 1 (denominator)"
         }, 
         "timeSig1Numerator": {
-            "codepoint": "U+F5B9", 
+            "codepoint": "U+F57C", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig1"
@@ -41668,7 +41328,7 @@
             "description": "Time signature 1 (numerator)"
         }, 
         "timeSig2Denominator": {
-            "codepoint": "U+F5BA", 
+            "codepoint": "U+F57D", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig2"
@@ -41676,7 +41336,7 @@
             "description": "Time signature 2 (denominator)"
         }, 
         "timeSig2Numerator": {
-            "codepoint": "U+F5BB", 
+            "codepoint": "U+F57E", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig2"
@@ -41684,7 +41344,7 @@
             "description": "Time signature 2 (numerator)"
         }, 
         "timeSig2over2": {
-            "codepoint": "U+F5E8", 
+            "codepoint": "U+F5AB", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig2", 
@@ -41694,7 +41354,7 @@
             "description": "2/2 time signature"
         }, 
         "timeSig2over4": {
-            "codepoint": "U+F5E7", 
+            "codepoint": "U+F5AA", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig2", 
@@ -41704,7 +41364,7 @@
             "description": "2/4 time signature"
         }, 
         "timeSig3Denominator": {
-            "codepoint": "U+F5BC", 
+            "codepoint": "U+F57F", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig3"
@@ -41712,7 +41372,7 @@
             "description": "Time signature 3 (denominator)"
         }, 
         "timeSig3Numerator": {
-            "codepoint": "U+F5BD", 
+            "codepoint": "U+F580", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig3"
@@ -41720,7 +41380,7 @@
             "description": "Time signature 3 (numerator)"
         }, 
         "timeSig3over2": {
-            "codepoint": "U+F5E9", 
+            "codepoint": "U+F5AC", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig3", 
@@ -41730,7 +41390,7 @@
             "description": "3/2 time signature"
         }, 
         "timeSig3over4": {
-            "codepoint": "U+F5EA", 
+            "codepoint": "U+F5AD", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig3", 
@@ -41740,7 +41400,7 @@
             "description": "3/4 time signature"
         }, 
         "timeSig3over8": {
-            "codepoint": "U+F5EB", 
+            "codepoint": "U+F5AE", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig3", 
@@ -41750,7 +41410,7 @@
             "description": "3/8 time signature"
         }, 
         "timeSig4Denominator": {
-            "codepoint": "U+F5BE", 
+            "codepoint": "U+F581", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig4"
@@ -41758,7 +41418,7 @@
             "description": "Time signature 4 (denominator)"
         }, 
         "timeSig4Numerator": {
-            "codepoint": "U+F5BF", 
+            "codepoint": "U+F582", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig4"
@@ -41766,7 +41426,7 @@
             "description": "Time signature 4 (numerator)"
         }, 
         "timeSig4over4": {
-            "codepoint": "U+F5EC", 
+            "codepoint": "U+F5AF", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig4", 
@@ -41776,7 +41436,7 @@
             "description": "4/4 time signature"
         }, 
         "timeSig5Denominator": {
-            "codepoint": "U+F5C0", 
+            "codepoint": "U+F583", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig5"
@@ -41784,7 +41444,7 @@
             "description": "Time signature 5 (denominator)"
         }, 
         "timeSig5Numerator": {
-            "codepoint": "U+F5C1", 
+            "codepoint": "U+F584", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig5"
@@ -41792,7 +41452,7 @@
             "description": "Time signature 5 (numerator)"
         }, 
         "timeSig5over4": {
-            "codepoint": "U+F5ED", 
+            "codepoint": "U+F5B0", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig5", 
@@ -41802,7 +41462,7 @@
             "description": "5/4 time signature"
         }, 
         "timeSig5over8": {
-            "codepoint": "U+F5EE", 
+            "codepoint": "U+F5B1", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig5", 
@@ -41812,7 +41472,7 @@
             "description": "5/8 time signature"
         }, 
         "timeSig6Denominator": {
-            "codepoint": "U+F5C2", 
+            "codepoint": "U+F585", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig6"
@@ -41820,7 +41480,7 @@
             "description": "Time signature 6 (denominator)"
         }, 
         "timeSig6Numerator": {
-            "codepoint": "U+F5C3", 
+            "codepoint": "U+F586", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig6"
@@ -41828,7 +41488,7 @@
             "description": "Time signature 6 (numerator)"
         }, 
         "timeSig6over4": {
-            "codepoint": "U+F5EF", 
+            "codepoint": "U+F5B2", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig6", 
@@ -41838,7 +41498,7 @@
             "description": "6/4 time signature"
         }, 
         "timeSig6over8": {
-            "codepoint": "U+F5F0", 
+            "codepoint": "U+F5B3", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig6", 
@@ -41848,7 +41508,7 @@
             "description": "6/8 time signature"
         }, 
         "timeSig7Denominator": {
-            "codepoint": "U+F5C4", 
+            "codepoint": "U+F587", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig7"
@@ -41856,7 +41516,7 @@
             "description": "Time signature 7 (denominator)"
         }, 
         "timeSig7Numerator": {
-            "codepoint": "U+F5C5", 
+            "codepoint": "U+F588", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig7"
@@ -41864,7 +41524,7 @@
             "description": "Time signature 7 (numerator)"
         }, 
         "timeSig7over8": {
-            "codepoint": "U+F5F1", 
+            "codepoint": "U+F5B4", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig7", 
@@ -41874,7 +41534,7 @@
             "description": "7/8 time signature"
         }, 
         "timeSig8Denominator": {
-            "codepoint": "U+F5C6", 
+            "codepoint": "U+F589", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig8"
@@ -41882,7 +41542,7 @@
             "description": "Time signature 8 (denominator)"
         }, 
         "timeSig8Numerator": {
-            "codepoint": "U+F5C7", 
+            "codepoint": "U+F58A", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig8"
@@ -41890,7 +41550,7 @@
             "description": "Time signature 8 (numerator)"
         }, 
         "timeSig9Denominator": {
-            "codepoint": "U+F5C8", 
+            "codepoint": "U+F58B", 
             "componentGlyphs": [
                 "timeSigCombDenominator", 
                 "timeSig9"
@@ -41898,7 +41558,7 @@
             "description": "Time signature 9 (denominator)"
         }, 
         "timeSig9Numerator": {
-            "codepoint": "U+F5C9", 
+            "codepoint": "U+F58C", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig9"
@@ -41906,7 +41566,7 @@
             "description": "Time signature 9 (numerator)"
         }, 
         "timeSig9over8": {
-            "codepoint": "U+F5F2", 
+            "codepoint": "U+F5B5", 
             "componentGlyphs": [
                 "timeSigCombNumerator", 
                 "timeSig9", 
@@ -41962,28 +41622,28 @@
             "description": "Double flat (joined stems)"
         }, 
         "accidentalDoubleFlatParens": {
-            "codepoint": "U+F5D2"
+            "codepoint": "U+F595"
         }, 
         "accidentalDoubleSharpParens": {
-            "codepoint": "U+F5D1"
+            "codepoint": "U+F594"
         }, 
         "accidentalFlatJohnstonDown": {
-            "codepoint": "U+F5D8"
+            "codepoint": "U+F59B"
         }, 
         "accidentalFlatJohnstonEl": {
-            "codepoint": "U+F5D6"
+            "codepoint": "U+F599"
         }, 
         "accidentalFlatJohnstonElDown": {
-            "codepoint": "U+F5E4"
+            "codepoint": "U+F5A7"
         }, 
         "accidentalFlatJohnstonUp": {
-            "codepoint": "U+F5D7"
+            "codepoint": "U+F59A"
         }, 
         "accidentalFlatJohnstonUpEl": {
-            "codepoint": "U+F5E3"
+            "codepoint": "U+F5A6"
         }, 
         "accidentalFlatParens": {
-            "codepoint": "U+F5CE"
+            "codepoint": "U+F591"
         }, 
         "accidentalFlatSmall": {
             "classes": [
@@ -41996,37 +41656,37 @@
             "description": "Flat (for small staves)"
         }, 
         "accidentalJohnstonDownEl": {
-            "codepoint": "U+F5DE"
+            "codepoint": "U+F5A1"
         }, 
         "accidentalJohnstonSevenDown": {
-            "codepoint": "U+F5DC"
+            "codepoint": "U+F59F"
         }, 
         "accidentalJohnstonSevenFlat": {
-            "codepoint": "U+F5DA"
+            "codepoint": "U+F59D"
         }, 
         "accidentalJohnstonSevenFlatDown": {
-            "codepoint": "U+F5E6"
+            "codepoint": "U+F5A9"
         }, 
         "accidentalJohnstonSevenFlatUp": {
-            "codepoint": "U+F5E5"
+            "codepoint": "U+F5A8"
         }, 
         "accidentalJohnstonSevenSharp": {
-            "codepoint": "U+F5D9"
+            "codepoint": "U+F59C"
         }, 
         "accidentalJohnstonSevenSharpDown": {
-            "codepoint": "U+F5E2"
+            "codepoint": "U+F5A5"
         }, 
         "accidentalJohnstonSevenSharpUp": {
-            "codepoint": "U+F5E1"
+            "codepoint": "U+F5A4"
         }, 
         "accidentalJohnstonSevenUp": {
-            "codepoint": "U+F5DB"
+            "codepoint": "U+F59E"
         }, 
         "accidentalJohnstonUpEl": {
-            "codepoint": "U+F5DD"
+            "codepoint": "U+F5A0"
         }, 
         "accidentalNaturalParens": {
-            "codepoint": "U+F5CF"
+            "codepoint": "U+F592"
         }, 
         "accidentalNaturalSmall": {
             "classes": [
@@ -42040,22 +41700,22 @@
             "description": "Natural (for small staves)"
         }, 
         "accidentalSharpJohnstonDown": {
-            "codepoint": "U+F5D5"
+            "codepoint": "U+F598"
         }, 
         "accidentalSharpJohnstonDownEl": {
-            "codepoint": "U+F5E0"
+            "codepoint": "U+F5A3"
         }, 
         "accidentalSharpJohnstonEl": {
-            "codepoint": "U+F5D3"
+            "codepoint": "U+F596"
         }, 
         "accidentalSharpJohnstonUp": {
-            "codepoint": "U+F5D4"
+            "codepoint": "U+F597"
         }, 
         "accidentalSharpJohnstonUpEl": {
-            "codepoint": "U+F5DF"
+            "codepoint": "U+F5A2"
         }, 
         "accidentalSharpParens": {
-            "codepoint": "U+F5D0"
+            "codepoint": "U+F593"
         }, 
         "accidentalSharpSmall": {
             "classes": [
@@ -42503,7 +42163,7 @@
             "description": "F clef (19th century)"
         }, 
         "fClef5Below": {
-            "codepoint": "U+F52B"
+            "codepoint": "U+F4EE"
         }, 
         "fClefFrench": {
             "classes": [
@@ -42802,187 +42462,187 @@
             "description": "Combining flag 1 (8th) above (straight)"
         }, 
         "gClef0Below": {
-            "codepoint": "U+F52C"
+            "codepoint": "U+F4EF"
         }, 
         "gClef10Below": {
-            "codepoint": "U+F52D"
+            "codepoint": "U+F4F0"
         }, 
         "gClef11Below": {
-            "codepoint": "U+F52E"
+            "codepoint": "U+F4F1"
         }, 
         "gClef12Below": {
-            "codepoint": "U+F52F"
+            "codepoint": "U+F4F2"
         }, 
         "gClef13Below": {
-            "codepoint": "U+F530"
+            "codepoint": "U+F4F3"
         }, 
         "gClef14Below": {
-            "codepoint": "U+F531"
+            "codepoint": "U+F4F4"
         }, 
         "gClef15Below": {
-            "codepoint": "U+F532"
+            "codepoint": "U+F4F5"
         }, 
         "gClef16Below": {
-            "codepoint": "U+F533"
+            "codepoint": "U+F4F6"
         }, 
         "gClef17Below": {
-            "codepoint": "U+F534"
+            "codepoint": "U+F4F7"
         }, 
         "gClef2Above": {
-            "codepoint": "U+F535"
+            "codepoint": "U+F4F8"
         }, 
         "gClef2Below": {
-            "codepoint": "U+F536"
+            "codepoint": "U+F4F9"
         }, 
         "gClef3Above": {
-            "codepoint": "U+F537"
+            "codepoint": "U+F4FA"
         }, 
         "gClef3Below": {
-            "codepoint": "U+F538"
+            "codepoint": "U+F4FB"
         }, 
         "gClef4Above": {
-            "codepoint": "U+F539"
+            "codepoint": "U+F4FC"
         }, 
         "gClef4Below": {
-            "codepoint": "U+F53A"
+            "codepoint": "U+F4FD"
         }, 
         "gClef5Above": {
-            "codepoint": "U+F53B"
+            "codepoint": "U+F4FE"
         }, 
         "gClef5Below": {
-            "codepoint": "U+F53C"
+            "codepoint": "U+F4FF"
         }, 
         "gClef6Above": {
-            "codepoint": "U+F53D"
+            "codepoint": "U+F500"
         }, 
         "gClef6Below": {
-            "codepoint": "U+F53E"
+            "codepoint": "U+F501"
         }, 
         "gClef7Above": {
-            "codepoint": "U+F53F"
+            "codepoint": "U+F502"
         }, 
         "gClef7Below": {
-            "codepoint": "U+F540"
+            "codepoint": "U+F503"
         }, 
         "gClef8Above": {
-            "codepoint": "U+F541"
+            "codepoint": "U+F504"
         }, 
         "gClef8Below": {
-            "codepoint": "U+F542"
+            "codepoint": "U+F505"
         }, 
         "gClef9Above": {
-            "codepoint": "U+F543"
+            "codepoint": "U+F506"
         }, 
         "gClef9Below": {
-            "codepoint": "U+F544"
+            "codepoint": "U+F507"
         }, 
         "gClefFlat10Below": {
-            "codepoint": "U+F545"
+            "codepoint": "U+F508"
         }, 
         "gClefFlat11Below": {
-            "codepoint": "U+F546"
+            "codepoint": "U+F509"
         }, 
         "gClefFlat13Below": {
-            "codepoint": "U+F547"
+            "codepoint": "U+F50A"
         }, 
         "gClefFlat14Below": {
-            "codepoint": "U+F548"
+            "codepoint": "U+F50B"
         }, 
         "gClefFlat15Below": {
-            "codepoint": "U+F549"
+            "codepoint": "U+F50C"
         }, 
         "gClefFlat16Below": {
-            "codepoint": "U+F54A"
+            "codepoint": "U+F50D"
         }, 
         "gClefFlat1Below": {
-            "codepoint": "U+F54B"
+            "codepoint": "U+F50E"
         }, 
         "gClefFlat2Above": {
-            "codepoint": "U+F54C"
+            "codepoint": "U+F50F"
         }, 
         "gClefFlat2Below": {
-            "codepoint": "U+F54D"
+            "codepoint": "U+F510"
         }, 
         "gClefFlat3Above": {
-            "codepoint": "U+F54E"
+            "codepoint": "U+F511"
         }, 
         "gClefFlat3Below": {
-            "codepoint": "U+F54F"
+            "codepoint": "U+F512"
         }, 
         "gClefFlat4Below": {
-            "codepoint": "U+F550"
+            "codepoint": "U+F513"
         }, 
         "gClefFlat5Above": {
-            "codepoint": "U+F551"
+            "codepoint": "U+F514"
         }, 
         "gClefFlat6Above": {
-            "codepoint": "U+F552"
+            "codepoint": "U+F515"
         }, 
         "gClefFlat6Below": {
-            "codepoint": "U+F553"
+            "codepoint": "U+F516"
         }, 
         "gClefFlat7Above": {
-            "codepoint": "U+F554"
+            "codepoint": "U+F517"
         }, 
         "gClefFlat7Below": {
-            "codepoint": "U+F555"
+            "codepoint": "U+F518"
         }, 
         "gClefFlat8Above": {
-            "codepoint": "U+F556"
+            "codepoint": "U+F519"
         }, 
         "gClefFlat9Above": {
-            "codepoint": "U+F557"
+            "codepoint": "U+F51A"
         }, 
         "gClefFlat9Below": {
-            "codepoint": "U+F558"
+            "codepoint": "U+F51B"
         }, 
         "gClefNat2Below": {
-            "codepoint": "U+F559"
+            "codepoint": "U+F51C"
         }, 
         "gClefNatural10Below": {
-            "codepoint": "U+F55A"
+            "codepoint": "U+F51D"
         }, 
         "gClefNatural13Below": {
-            "codepoint": "U+F55B"
+            "codepoint": "U+F51E"
         }, 
         "gClefNatural17Below": {
-            "codepoint": "U+F55C"
+            "codepoint": "U+F51F"
         }, 
         "gClefNatural2Above": {
-            "codepoint": "U+F55D"
+            "codepoint": "U+F520"
         }, 
         "gClefNatural3Above": {
-            "codepoint": "U+F55E"
+            "codepoint": "U+F521"
         }, 
         "gClefNatural3Below": {
-            "codepoint": "U+F55F"
+            "codepoint": "U+F522"
         }, 
         "gClefNatural6Above": {
-            "codepoint": "U+F560"
+            "codepoint": "U+F523"
         }, 
         "gClefNatural6Below": {
-            "codepoint": "U+F561"
+            "codepoint": "U+F524"
         }, 
         "gClefNatural7Above": {
-            "codepoint": "U+F562"
+            "codepoint": "U+F525"
         }, 
         "gClefNatural9Above": {
-            "codepoint": "U+F563"
+            "codepoint": "U+F526"
         }, 
         "gClefNatural9Below": {
-            "codepoint": "U+F564"
+            "codepoint": "U+F527"
         }, 
         "gClefSharp12Below": {
-            "codepoint": "U+F565"
+            "codepoint": "U+F528"
         }, 
         "gClefSharp1Above": {
-            "codepoint": "U+F566"
+            "codepoint": "U+F529"
         }, 
         "gClefSharp4Above": {
-            "codepoint": "U+F567"
+            "codepoint": "U+F52A"
         }, 
         "gClefSharp5Below": {
-            "codepoint": "U+F568"
+            "codepoint": "U+F52B"
         }, 
         "gClefSmall": {
             "classes": [
@@ -43117,184 +42777,184 @@
             "description": "Void mensural C clef"
         }, 
         "mensuralFusaBlackStemDown": {
-            "codepoint": "U+F569"
+            "codepoint": "U+F52C"
         }, 
         "mensuralFusaBlackStemUp": {
-            "codepoint": "U+F56A"
+            "codepoint": "U+F52D"
         }, 
         "mensuralFusaBlackVoidStemDown": {
-            "codepoint": "U+F56B"
+            "codepoint": "U+F52E"
         }, 
         "mensuralFusaBlackVoidStemUp": {
-            "codepoint": "U+F56C"
+            "codepoint": "U+F52F"
         }, 
         "mensuralFusaVoidStemDown": {
-            "codepoint": "U+F56D"
+            "codepoint": "U+F530"
         }, 
         "mensuralFusaVoidStemUp": {
-            "codepoint": "U+F56E"
+            "codepoint": "U+F531"
         }, 
         "mensuralLongaBlackStemDownLeft": {
-            "codepoint": "U+F56F"
+            "codepoint": "U+F532"
         }, 
         "mensuralLongaBlackStemDownRight": {
-            "codepoint": "U+F570"
+            "codepoint": "U+F533"
         }, 
         "mensuralLongaBlackStemUpLeft": {
-            "codepoint": "U+F571"
+            "codepoint": "U+F534"
         }, 
         "mensuralLongaBlackStemUpRight": {
-            "codepoint": "U+F572"
+            "codepoint": "U+F535"
         }, 
         "mensuralLongaBlackVoidStemDownLeft": {
-            "codepoint": "U+F573"
+            "codepoint": "U+F536"
         }, 
         "mensuralLongaBlackVoidStemDownRight": {
-            "codepoint": "U+F574"
+            "codepoint": "U+F537"
         }, 
         "mensuralLongaBlackVoidStemUpLeft": {
-            "codepoint": "U+F575"
+            "codepoint": "U+F538"
         }, 
         "mensuralLongaBlackVoidStemUpRight": {
-            "codepoint": "U+F576"
+            "codepoint": "U+F539"
         }, 
         "mensuralLongaVoidStemDownLeft": {
-            "codepoint": "U+F577"
+            "codepoint": "U+F53A"
         }, 
         "mensuralLongaVoidStemDownRight": {
-            "codepoint": "U+F578"
+            "codepoint": "U+F53B"
         }, 
         "mensuralLongaVoidStemUpLeft": {
-            "codepoint": "U+F579"
+            "codepoint": "U+F53C"
         }, 
         "mensuralLongaVoidStemUpRight": {
-            "codepoint": "U+F57A"
+            "codepoint": "U+F53D"
         }, 
         "mensuralMaximaBlackStemDownLeft": {
-            "codepoint": "U+F57B"
+            "codepoint": "U+F53E"
         }, 
         "mensuralMaximaBlackStemDownRight": {
-            "codepoint": "U+F57C"
+            "codepoint": "U+F53F"
         }, 
         "mensuralMaximaBlackStemUpLeft": {
-            "codepoint": "U+F57D"
+            "codepoint": "U+F540"
         }, 
         "mensuralMaximaBlackStemUpRight": {
-            "codepoint": "U+F57E"
+            "codepoint": "U+F541"
         }, 
         "mensuralMaximaBlackVoidStemDownLeft": {
-            "codepoint": "U+F57F"
+            "codepoint": "U+F542"
         }, 
         "mensuralMaximaBlackVoidStemDownRight": {
-            "codepoint": "U+F580"
+            "codepoint": "U+F543"
         }, 
         "mensuralMaximaBlackVoidStemUpLeft": {
-            "codepoint": "U+F581"
+            "codepoint": "U+F544"
         }, 
         "mensuralMaximaBlackVoidStemUpRight": {
-            "codepoint": "U+F582"
+            "codepoint": "U+F545"
         }, 
         "mensuralMaximaVoidStemDownLeft": {
-            "codepoint": "U+F583"
+            "codepoint": "U+F546"
         }, 
         "mensuralMaximaVoidStemDownRight": {
-            "codepoint": "U+F584"
+            "codepoint": "U+F547"
         }, 
         "mensuralMaximaVoidStemUpLeft": {
-            "codepoint": "U+F585"
+            "codepoint": "U+F548"
         }, 
         "mensuralMaximaVoidStemUpRight": {
-            "codepoint": "U+F586"
+            "codepoint": "U+F549"
         }, 
         "mensuralMinimaBlackStemDown": {
-            "codepoint": "U+F587"
+            "codepoint": "U+F54A"
         }, 
         "mensuralMinimaBlackStemDownExtendedFlag": {
-            "codepoint": "U+F588"
+            "codepoint": "U+F54B"
         }, 
         "mensuralMinimaBlackStemDownFlagLeft": {
-            "codepoint": "U+F589"
+            "codepoint": "U+F54C"
         }, 
         "mensuralMinimaBlackStemDownFlagRight": {
-            "codepoint": "U+F58A"
+            "codepoint": "U+F54D"
         }, 
         "mensuralMinimaBlackStemDownFlaredFlag": {
-            "codepoint": "U+F58B"
+            "codepoint": "U+F54E"
         }, 
         "mensuralMinimaBlackStemUp": {
-            "codepoint": "U+F58C"
+            "codepoint": "U+F54F"
         }, 
         "mensuralMinimaBlackStemUpExtendedFlag": {
-            "codepoint": "U+F58D"
+            "codepoint": "U+F550"
         }, 
         "mensuralMinimaBlackStemUpFlagLeft": {
-            "codepoint": "U+F58E"
+            "codepoint": "U+F551"
         }, 
         "mensuralMinimaBlackStemUpFlagRight": {
-            "codepoint": "U+F58F"
+            "codepoint": "U+F552"
         }, 
         "mensuralMinimaBlackStemUpFlaredFlag": {
-            "codepoint": "U+F590"
+            "codepoint": "U+F553"
         }, 
         "mensuralMinimaBlackVoidStemDown": {
-            "codepoint": "U+F591"
+            "codepoint": "U+F554"
         }, 
         "mensuralMinimaBlackVoidStemDownExtendedFlag": {
-            "codepoint": "U+F592"
+            "codepoint": "U+F555"
         }, 
         "mensuralMinimaBlackVoidStemDownFlagLeft": {
-            "codepoint": "U+F593"
+            "codepoint": "U+F556"
         }, 
         "mensuralMinimaBlackVoidStemDownFlagRight": {
-            "codepoint": "U+F594"
+            "codepoint": "U+F557"
         }, 
         "mensuralMinimaBlackVoidStemDownFlaredFlag": {
-            "codepoint": "U+F595"
+            "codepoint": "U+F558"
         }, 
         "mensuralMinimaBlackVoidStemUp": {
-            "codepoint": "U+F596"
+            "codepoint": "U+F559"
         }, 
         "mensuralMinimaBlackVoidStemUpExtendedFlag": {
-            "codepoint": "U+F597"
+            "codepoint": "U+F55A"
         }, 
         "mensuralMinimaBlackVoidStemUpFlagLeft": {
-            "codepoint": "U+F598"
+            "codepoint": "U+F55B"
         }, 
         "mensuralMinimaBlackVoidStemUpFlagRight": {
-            "codepoint": "U+F599"
+            "codepoint": "U+F55C"
         }, 
         "mensuralMinimaBlackVoidStemUpFlaredFlag": {
-            "codepoint": "U+F59A"
+            "codepoint": "U+F55D"
         }, 
         "mensuralMinimaVoidStemDown": {
-            "codepoint": "U+F59B"
+            "codepoint": "U+F55E"
         }, 
         "mensuralMinimaVoidStemDownExtendedFlag": {
-            "codepoint": "U+F59C"
+            "codepoint": "U+F55F"
         }, 
         "mensuralMinimaVoidStemDownFlagLeft": {
-            "codepoint": "U+F59D"
+            "codepoint": "U+F560"
         }, 
         "mensuralMinimaVoidStemDownFlagRight": {
-            "codepoint": "U+F59E"
+            "codepoint": "U+F561"
         }, 
         "mensuralMinimaVoidStemDownFlaredFlag": {
-            "codepoint": "U+F59F"
+            "codepoint": "U+F562"
         }, 
         "mensuralMinimaVoidStemUp": {
-            "codepoint": "U+F5A1"
+            "codepoint": "U+F564"
         }, 
         "mensuralMinimaVoidStemUpExtendedFlag": {
-            "codepoint": "U+F5A0"
+            "codepoint": "U+F563"
         }, 
         "mensuralMinimaVoidStemUpFlagLeft": {
-            "codepoint": "U+F5A2"
+            "codepoint": "U+F565"
         }, 
         "mensuralMinimaVoidStemUpFlagRight": {
-            "codepoint": "U+F5A3"
+            "codepoint": "U+F566"
         }, 
         "mensuralMinimaVoidStemUpFlaredFlag": {
-            "codepoint": "U+F5A4"
+            "codepoint": "U+F567"
         }, 
         "mensuralProportion4Old": {
             "classes": [
@@ -43304,22 +42964,22 @@
             "description": "Mensural proportion 4 (old)"
         }, 
         "mensuralSemiminimaBlackStemDown": {
-            "codepoint": "U+F5A5"
+            "codepoint": "U+F568"
         }, 
         "mensuralSemiminimaBlackStemUp": {
-            "codepoint": "U+F5A6"
+            "codepoint": "U+F569"
         }, 
         "mensuralSemiminimaBlackVoidStemDown": {
-            "codepoint": "U+F5A7"
+            "codepoint": "U+F56A"
         }, 
         "mensuralSemiminimaBlackVoidStemUp": {
-            "codepoint": "U+F5A8"
+            "codepoint": "U+F56B"
         }, 
         "mensuralSemiminimaVoidStemDown": {
-            "codepoint": "U+F5A9"
+            "codepoint": "U+F56C"
         }, 
         "mensuralSemiminimaVoidStemUp": {
-            "codepoint": "U+F5AA"
+            "codepoint": "U+F56D"
         }, 
         "noteDoubleWholeAlt": {
             "classes": [
@@ -43339,7 +42999,7 @@
             "description": "Black notehead (oversized)"
         }, 
         "noteheadBlackParens": {
-            "codepoint": "U+F5CA"
+            "codepoint": "U+F58D"
         }, 
         "noteheadBlackSmall": {
             "classes": [
@@ -43369,7 +43029,7 @@
             "description": "Double whole note (breve) (oversized)"
         }, 
         "noteheadDoubleWholeParens": {
-            "codepoint": "U+F5CD"
+            "codepoint": "U+F590"
         }, 
         "noteheadDoubleWholeSmall": {
             "classes": [
@@ -43399,7 +43059,7 @@
             "description": "Half (minim) notehead (oversized)"
         }, 
         "noteheadHalfParens": {
-            "codepoint": "U+F5CB"
+            "codepoint": "U+F58E"
         }, 
         "noteheadHalfSmall": {
             "classes": [
@@ -43520,7 +43180,7 @@
             "description": "Whole notehead (oversized)"
         }, 
         "noteheadWholeParens": {
-            "codepoint": "U+F5CC"
+            "codepoint": "U+F58F"
         }, 
         "noteheadWholeSmall": {
             "classes": [
@@ -43532,37 +43192,37 @@
             "description": "Whole notehead (small staff)"
         }, 
         "ornamentTrillFlatAbove": {
-            "codepoint": "U+F5AB"
+            "codepoint": "U+F56E"
         }, 
         "ornamentTrillNaturalAbove": {
-            "codepoint": "U+F5AC"
+            "codepoint": "U+F56F"
         }, 
         "ornamentTrillSharpAbove": {
-            "codepoint": "U+F5AD"
+            "codepoint": "U+F570"
         }, 
         "ornamentTurnFlatAbove": {
-            "codepoint": "U+F5AE"
+            "codepoint": "U+F571"
         }, 
         "ornamentTurnFlatAboveSharpBelow": {
-            "codepoint": "U+F5AF"
+            "codepoint": "U+F572"
         }, 
         "ornamentTurnFlatBelow": {
-            "codepoint": "U+F5B0"
+            "codepoint": "U+F573"
         }, 
         "ornamentTurnNaturalAbove": {
-            "codepoint": "U+F5B1"
+            "codepoint": "U+F574"
         }, 
         "ornamentTurnNaturalBelow": {
-            "codepoint": "U+F5B2"
+            "codepoint": "U+F575"
         }, 
         "ornamentTurnSharpAbove": {
-            "codepoint": "U+F5B3"
+            "codepoint": "U+F576"
         }, 
         "ornamentTurnSharpAboveFlatBelow": {
-            "codepoint": "U+F5B4"
+            "codepoint": "U+F577"
         }, 
         "ornamentTurnSharpBelow": {
-            "codepoint": "U+F5B5"
+            "codepoint": "U+F578"
         }, 
         "pictBassDrumPeinkofer": {
             "classes": [], 
@@ -43755,20 +43415,15 @@
             "description": "Change bow direction, indeterminate (Pricope)"
         }, 
         "timeSig0Denominator": {
-            "codepoint": "U+F5B6"
+            "codepoint": "U+F579"
         }, 
         "timeSig0Large": {
             "classes": [], 
             "codepoint": "U+F440", 
             "description": "Time signature 0 (outside staff)"
         }, 
-        "timeSig0Narrow": {
-            "classes": [], 
-            "codepoint": "U+F506", 
-            "description": "Time signature 0 (large, narrow)"
-        }, 
         "timeSig0Numerator": {
-            "codepoint": "U+F5B7"
+            "codepoint": "U+F57A"
         }, 
         "timeSig0Small": {
             "classes": [], 
@@ -43776,23 +43431,18 @@
             "description": "Time signature 0 (small staff)"
         }, 
         "timeSig12over8": {
-            "codepoint": "U+F5F3"
+            "codepoint": "U+F5B6"
         }, 
         "timeSig1Denominator": {
-            "codepoint": "U+F5B8"
+            "codepoint": "U+F57B"
         }, 
         "timeSig1Large": {
             "classes": [], 
             "codepoint": "U+F441", 
             "description": "Time signature 1 (outside staff)"
         }, 
-        "timeSig1Narrow": {
-            "classes": [], 
-            "codepoint": "U+F507", 
-            "description": "Time signature 1 (large, narrow)"
-        }, 
         "timeSig1Numerator": {
-            "codepoint": "U+F5B9"
+            "codepoint": "U+F57C"
         }, 
         "timeSig1Small": {
             "classes": [], 
@@ -43800,20 +43450,15 @@
             "description": "Time signature 1 (small staff)"
         }, 
         "timeSig2Denominator": {
-            "codepoint": "U+F5BA"
+            "codepoint": "U+F57D"
         }, 
         "timeSig2Large": {
             "classes": [], 
             "codepoint": "U+F442", 
             "description": "Time signature 2 (outside staff)"
         }, 
-        "timeSig2Narrow": {
-            "classes": [], 
-            "codepoint": "U+F508", 
-            "description": "Time signature 2 (large, narrow)"
-        }, 
         "timeSig2Numerator": {
-            "codepoint": "U+F5BB"
+            "codepoint": "U+F57E"
         }, 
         "timeSig2Small": {
             "classes": [], 
@@ -43821,26 +43466,21 @@
             "description": "Time signature 2 (small staff)"
         }, 
         "timeSig2over2": {
-            "codepoint": "U+F5E8"
+            "codepoint": "U+F5AB"
         }, 
         "timeSig2over4": {
-            "codepoint": "U+F5E7"
+            "codepoint": "U+F5AA"
         }, 
         "timeSig3Denominator": {
-            "codepoint": "U+F5BC"
+            "codepoint": "U+F57F"
         }, 
         "timeSig3Large": {
             "classes": [], 
             "codepoint": "U+F443", 
             "description": "Time signature 3 (outside staff)"
         }, 
-        "timeSig3Narrow": {
-            "classes": [], 
-            "codepoint": "U+F509", 
-            "description": "Time signature 3 (large, narrow)"
-        }, 
         "timeSig3Numerator": {
-            "codepoint": "U+F5BD"
+            "codepoint": "U+F580"
         }, 
         "timeSig3Small": {
             "classes": [], 
@@ -43848,29 +43488,24 @@
             "description": "Time signature 3 (small staff)"
         }, 
         "timeSig3over2": {
-            "codepoint": "U+F5E9"
+            "codepoint": "U+F5AC"
         }, 
         "timeSig3over4": {
-            "codepoint": "U+F5EA"
+            "codepoint": "U+F5AD"
         }, 
         "timeSig3over8": {
-            "codepoint": "U+F5EB"
+            "codepoint": "U+F5AE"
         }, 
         "timeSig4Denominator": {
-            "codepoint": "U+F5BE"
+            "codepoint": "U+F581"
         }, 
         "timeSig4Large": {
             "classes": [], 
             "codepoint": "U+F444", 
             "description": "Time signature 4 (outside staff)"
         }, 
-        "timeSig4Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50A", 
-            "description": "Time signature 4 (large, narrow)"
-        }, 
         "timeSig4Numerator": {
-            "codepoint": "U+F5BF"
+            "codepoint": "U+F582"
         }, 
         "timeSig4Small": {
             "classes": [], 
@@ -43878,23 +43513,18 @@
             "description": "Time signature 4 (small staff)"
         }, 
         "timeSig4over4": {
-            "codepoint": "U+F5EC"
+            "codepoint": "U+F5AF"
         }, 
         "timeSig5Denominator": {
-            "codepoint": "U+F5C0"
+            "codepoint": "U+F583"
         }, 
         "timeSig5Large": {
             "classes": [], 
             "codepoint": "U+F445", 
             "description": "Time signature 5 (outside staff)"
         }, 
-        "timeSig5Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50B", 
-            "description": "Time signature 5 (large, narrow)"
-        }, 
         "timeSig5Numerator": {
-            "codepoint": "U+F5C1"
+            "codepoint": "U+F584"
         }, 
         "timeSig5Small": {
             "classes": [], 
@@ -43902,26 +43532,21 @@
             "description": "Time signature 5 (small staff)"
         }, 
         "timeSig5over4": {
-            "codepoint": "U+F5ED"
+            "codepoint": "U+F5B0"
         }, 
         "timeSig5over8": {
-            "codepoint": "U+F5EE"
+            "codepoint": "U+F5B1"
         }, 
         "timeSig6Denominator": {
-            "codepoint": "U+F5C2"
+            "codepoint": "U+F585"
         }, 
         "timeSig6Large": {
             "classes": [], 
             "codepoint": "U+F446", 
             "description": "Time signature 6 (outside staff)"
         }, 
-        "timeSig6Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50C", 
-            "description": "Time signature 6 (large, narrow)"
-        }, 
         "timeSig6Numerator": {
-            "codepoint": "U+F5C3"
+            "codepoint": "U+F586"
         }, 
         "timeSig6Small": {
             "classes": [], 
@@ -43929,26 +43554,21 @@
             "description": "Time signature 6 (small staff)"
         }, 
         "timeSig6over4": {
-            "codepoint": "U+F5EF"
+            "codepoint": "U+F5B2"
         }, 
         "timeSig6over8": {
-            "codepoint": "U+F5F0"
+            "codepoint": "U+F5B3"
         }, 
         "timeSig7Denominator": {
-            "codepoint": "U+F5C4"
+            "codepoint": "U+F587"
         }, 
         "timeSig7Large": {
             "classes": [], 
             "codepoint": "U+F447", 
             "description": "Time signature 7 (outside staff)"
         }, 
-        "timeSig7Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50D", 
-            "description": "Time signature 7 (large, narrow)"
-        }, 
         "timeSig7Numerator": {
-            "codepoint": "U+F5C5"
+            "codepoint": "U+F588"
         }, 
         "timeSig7Small": {
             "classes": [], 
@@ -43956,23 +43576,18 @@
             "description": "Time signature 7 (small staff)"
         }, 
         "timeSig7over8": {
-            "codepoint": "U+F5F1"
+            "codepoint": "U+F5B4"
         }, 
         "timeSig8Denominator": {
-            "codepoint": "U+F5C6"
+            "codepoint": "U+F589"
         }, 
         "timeSig8Large": {
             "classes": [], 
             "codepoint": "U+F448", 
             "description": "Time signature 8 (outside staff)"
         }, 
-        "timeSig8Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50E", 
-            "description": "Time signature 8 (large, narrow)"
-        }, 
         "timeSig8Numerator": {
-            "codepoint": "U+F5C7"
+            "codepoint": "U+F58A"
         }, 
         "timeSig8Small": {
             "classes": [], 
@@ -43980,20 +43595,15 @@
             "description": "Time signature 8 (small staff)"
         }, 
         "timeSig9Denominator": {
-            "codepoint": "U+F5C8"
+            "codepoint": "U+F58B"
         }, 
         "timeSig9Large": {
             "classes": [], 
             "codepoint": "U+F449", 
             "description": "Time signature 9 (outside staff)"
         }, 
-        "timeSig9Narrow": {
-            "classes": [], 
-            "codepoint": "U+F50F", 
-            "description": "Time signature 9 (large, narrow)"
-        }, 
         "timeSig9Numerator": {
-            "codepoint": "U+F5C9"
+            "codepoint": "U+F58C"
         }, 
         "timeSig9Small": {
             "classes": [], 
@@ -44001,277 +43611,22 @@
             "description": "Time signature 9 (small staff)"
         }, 
         "timeSig9over8": {
-            "codepoint": "U+F5F2"
-        }, 
-        "timeSigBracketLeftLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FF", 
-            "description": "Left bracket for whole time signature (outside staff)"
-        }, 
-        "timeSigBracketLeftNarrow": {
-            "classes": [], 
-            "codepoint": "U+F524", 
-            "description": "Left bracket for whole time signature (narrow, large)"
-        }, 
-        "timeSigBracketLeftSmallLarge": {
-            "classes": [], 
-            "codepoint": "U+F501", 
-            "description": "Left bracket for numerator only (outside staff)"
-        }, 
-        "timeSigBracketLeftSmallNarrow": {
-            "classes": [], 
-            "codepoint": "U+F526", 
-            "description": "Left bracket for numerator only (large, narrow)"
-        }, 
-        "timeSigBracketRightLarge": {
-            "classes": [], 
-            "codepoint": "U+F500", 
-            "description": "Right bracket for whole time signature (outside staff)"
-        }, 
-        "timeSigBracketRightNarrow": {
-            "classes": [], 
-            "codepoint": "U+F525", 
-            "description": "Right bracket for whole time signature (large, narrow)"
-        }, 
-        "timeSigBracketRightSmallLarge": {
-            "classes": [], 
-            "codepoint": "U+F502", 
-            "description": "Right bracket for numerator only (outside staff)"
-        }, 
-        "timeSigBracketRightSmallNarrow": {
-            "classes": [], 
-            "codepoint": "U+F527", 
-            "description": "Right bracket for numerator only (large, narrow)"
-        }, 
-        "timeSigCommaLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F7", 
-            "description": "Time signature comma (outside staff)"
-        }, 
-        "timeSigCommaNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51C", 
-            "description": "Time signature comma (large, narrow)"
+            "codepoint": "U+F5B5"
         }, 
         "timeSigCommonLarge": {
             "classes": [], 
             "codepoint": "U+F44A", 
             "description": "Common time (outside staff)"
         }, 
-        "timeSigCommonNarrow": {
-            "classes": [], 
-            "codepoint": "U+F510", 
-            "description": "Common time (large, narrow)"
-        }, 
-        "timeSigCut2Large": {
-            "classes": [], 
-            "codepoint": "U+F504", 
-            "description": "Cut time (Bach) (outside staff)"
-        }, 
-        "timeSigCut2Narrow": {
-            "classes": [], 
-            "codepoint": "U+F529", 
-            "description": "Cut time (Bach) (large, narrow)"
-        }, 
-        "timeSigCut3Large": {
-            "classes": [], 
-            "codepoint": "U+F505", 
-            "description": "Cut triple time (9/8) (outside staff)"
-        }, 
-        "timeSigCut3Narrow": {
-            "classes": [], 
-            "codepoint": "U+F52A", 
-            "description": "Cut triple time (9/8) (large, narrow)"
-        }, 
         "timeSigCutCommonLarge": {
             "classes": [], 
             "codepoint": "U+F44B", 
             "description": "Cut time (outside staff)"
         }, 
-        "timeSigCutCommonNarrow": {
-            "classes": [], 
-            "codepoint": "U+F511", 
-            "description": "Cut time (large, narrow)"
-        }, 
-        "timeSigEqualsLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F0", 
-            "description": "Time signature equals (outside staff)"
-        }, 
-        "timeSigEqualsNarrow": {
-            "classes": [], 
-            "codepoint": "U+F515", 
-            "description": "Time signature equals (large, narrow)"
-        }, 
-        "timeSigFractionHalfLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F9", 
-            "description": "Time signature fraction \u00bd (outside staff)"
-        }, 
-        "timeSigFractionHalfNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51E", 
-            "description": "Time signature fraction \u00bd (large, narrow)"
-        }, 
-        "timeSigFractionOneThirdLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FB", 
-            "description": "Time signature fraction \u2153 (outside staff)"
-        }, 
-        "timeSigFractionOneThirdNarrow": {
-            "classes": [], 
-            "codepoint": "U+F520", 
-            "description": "Time signature fraction \u2153 (large, narrow)"
-        }, 
-        "timeSigFractionQuarterLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F8", 
-            "description": "Time signature fraction \u00bc (outside staff)"
-        }, 
-        "timeSigFractionQuarterNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51D", 
-            "description": "Time signature fraction \u00bc (large, narrow)"
-        }, 
-        "timeSigFractionThreeQuartersLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FA", 
-            "description": "Time signature fraction \u00be (outside staff)"
-        }, 
-        "timeSigFractionThreeQuartersNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51F", 
-            "description": "Time signature fraction \u00be (large, narrow)"
-        }, 
-        "timeSigFractionTwoThirdsLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FC", 
-            "description": "Time signature fraction \u2154 (outside staff)"
-        }, 
-        "timeSigFractionTwoThirdsNarrow": {
-            "classes": [], 
-            "codepoint": "U+F521", 
-            "description": "Time signature fraction \u2154 (large, narrow)"
-        }, 
-        "timeSigFractionalSlashLarge": {
-            "classes": [], 
-            "codepoint": "U+F4EF", 
-            "description": "Time signature fraction slash (outside staff)"
-        }, 
-        "timeSigFractionalSlashNarrow": {
-            "classes": [], 
-            "codepoint": "U+F514", 
-            "description": "Time signature fraction slash (large, narrow)"
-        }, 
-        "timeSigMinusLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F1", 
-            "description": "Time signature minus (outside staff)"
-        }, 
-        "timeSigMinusNarrow": {
-            "classes": [], 
-            "codepoint": "U+F516", 
-            "description": "Time signature minus (large, narrow)"
-        }, 
-        "timeSigMultiplyLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F2", 
-            "description": "Time signature multiply (outside staff)"
-        }, 
-        "timeSigMultiplyNarrow": {
-            "classes": [], 
-            "codepoint": "U+F517", 
-            "description": "Time signature multiply (large, narrow)"
-        }, 
-        "timeSigOpenPendereckiLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FE", 
-            "description": "Open time signature (Penderecki) (outside staff)"
-        }, 
-        "timeSigOpenPendereckiNarrow": {
-            "classes": [], 
-            "codepoint": "U+F523", 
-            "description": "Open time signature (Penderecki) (narrow, large)"
-        }, 
-        "timeSigParensLeftLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F5", 
-            "description": "Left parenthesis for whole time signature (outside staff)"
-        }, 
-        "timeSigParensLeftNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51A", 
-            "description": "Left parenthesis for whole time signature (large, narrow)"
-        }, 
-        "timeSigParensLeftSmallLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F3", 
-            "description": "Left parenthesis for numerator only (outside staff)"
-        }, 
-        "timeSigParensLeftSmallNarrow": {
-            "classes": [], 
-            "codepoint": "U+F518", 
-            "description": "Left parenthesis for numerator only (large, narrow)"
-        }, 
-        "timeSigParensRightLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F6", 
-            "description": "Right parenthesis for whole time signature (outside staff)"
-        }, 
-        "timeSigParensRightNarrow": {
-            "classes": [], 
-            "codepoint": "U+F51B", 
-            "description": "Right parenthesis for whole time signature (large, narrow)"
-        }, 
-        "timeSigParensRightSmallLarge": {
-            "classes": [], 
-            "codepoint": "U+F4F4", 
-            "description": "Right parenthesis for numerator only (outside staff)"
-        }, 
-        "timeSigParensRightSmallNarrow": {
-            "classes": [], 
-            "codepoint": "U+F519", 
-            "description": "Right parenthesis for numerator only (large, narrow)"
-        }, 
         "timeSigPlusLarge": {
             "classes": [], 
             "codepoint": "U+F44C", 
             "description": "Time signature + (outside staff)"
-        }, 
-        "timeSigPlusNarrow": {
-            "classes": [], 
-            "codepoint": "U+F512", 
-            "description": "Time signature + (large, narrow)"
-        }, 
-        "timeSigPlusSmallLarge": {
-            "classes": [], 
-            "codepoint": "U+F4EE", 
-            "description": "Time signature + (for numerators) (outside staff)"
-        }, 
-        "timeSigPlusSmallNarrow": {
-            "classes": [], 
-            "codepoint": "U+F513", 
-            "description": "Time signature + (for numerators) (large, narrow)"
-        }, 
-        "timeSigSlashLarge": {
-            "classes": [], 
-            "codepoint": "U+F503", 
-            "description": "Time signature slash separator (outside staff)"
-        }, 
-        "timeSigSlashNarrow": {
-            "classes": [], 
-            "codepoint": "U+F528", 
-            "description": "Time signature slash separator (large, narrow)"
-        }, 
-        "timeSigXLarge": {
-            "classes": [], 
-            "codepoint": "U+F4FD", 
-            "description": "Open time signature (outside staff)"
-        }, 
-        "timeSigXNarrow": {
-            "classes": [], 
-            "codepoint": "U+F522", 
-            "description": "Open time signature (large, narrow)"
         }, 
         "tripleTongueAboveNoSlur": {
             "classes": [], 
@@ -44851,7 +44206,7 @@
             "type": "flagsStraight"
         }, 
         "ss04": {
-            "description": "Large, narrow sans serif time signatures", 
+            "description": "Large time signatures", 
             "glyphs": [
                 {
                     "alternateFor": "timeSig0", 
@@ -44930,150 +44285,6 @@
                     "codepoint": "U+F44C", 
                     "description": "Time signature + (outside staff)", 
                     "name": "timeSigPlusLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigPlusSmall", 
-                    "codepoint": "U+F4EE", 
-                    "description": "Time signature + (for numerators) (outside staff)", 
-                    "name": "timeSigPlusSmallLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionalSlash", 
-                    "codepoint": "U+F4EF", 
-                    "description": "Time signature fraction slash (outside staff)", 
-                    "name": "timeSigFractionalSlashLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigEquals", 
-                    "codepoint": "U+F4F0", 
-                    "description": "Time signature equals (outside staff)", 
-                    "name": "timeSigEqualsLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigMinus", 
-                    "codepoint": "U+F4F1", 
-                    "description": "Time signature minus (outside staff)", 
-                    "name": "timeSigMinusLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigMultiply", 
-                    "codepoint": "U+F4F2", 
-                    "description": "Time signature multiply (outside staff)", 
-                    "name": "timeSigMultiplyLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigParensLeftSmall", 
-                    "codepoint": "U+F4F3", 
-                    "description": "Left parenthesis for numerator only (outside staff)", 
-                    "name": "timeSigParensLeftSmallLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigParensRightSmall", 
-                    "codepoint": "U+F4F4", 
-                    "description": "Right parenthesis for numerator only (outside staff)", 
-                    "name": "timeSigParensRightSmallLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigParensLeft", 
-                    "codepoint": "U+F4F5", 
-                    "description": "Left parenthesis for whole time signature (outside staff)", 
-                    "name": "timeSigParensLeftLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigParensRight", 
-                    "codepoint": "U+F4F6", 
-                    "description": "Right parenthesis for whole time signature (outside staff)", 
-                    "name": "timeSigParensRightLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigComma", 
-                    "codepoint": "U+F4F7", 
-                    "description": "Time signature comma (outside staff)", 
-                    "name": "timeSigCommaLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionQuarter", 
-                    "codepoint": "U+F4F8", 
-                    "description": "Time signature fraction \u00bc (outside staff)", 
-                    "name": "timeSigFractionQuarterLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionHalf", 
-                    "codepoint": "U+F4F9", 
-                    "description": "Time signature fraction \u00bd (outside staff)", 
-                    "name": "timeSigFractionHalfLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionThreeQuarters", 
-                    "codepoint": "U+F4FA", 
-                    "description": "Time signature fraction \u00be (outside staff)", 
-                    "name": "timeSigFractionThreeQuartersLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionOneThird", 
-                    "codepoint": "U+F4FB", 
-                    "description": "Time signature fraction \u2153 (outside staff)", 
-                    "name": "timeSigFractionOneThirdLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionTwoThirds", 
-                    "codepoint": "U+F4FC", 
-                    "description": "Time signature fraction \u2154 (outside staff)", 
-                    "name": "timeSigFractionTwoThirdsLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigX", 
-                    "codepoint": "U+F4FD", 
-                    "description": "Open time signature (outside staff)", 
-                    "name": "timeSigXLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigOpenPenderecki", 
-                    "codepoint": "U+F4FE", 
-                    "description": "Open time signature (Penderecki) (outside staff)", 
-                    "name": "timeSigOpenPendereckiLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketLeft", 
-                    "codepoint": "U+F4FF", 
-                    "description": "Left bracket for whole time signature (outside staff)", 
-                    "name": "timeSigBracketLeftLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketRight", 
-                    "codepoint": "U+F500", 
-                    "description": "Right bracket for whole time signature (outside staff)", 
-                    "name": "timeSigBracketRightLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketLeftSmall", 
-                    "codepoint": "U+F501", 
-                    "description": "Left bracket for numerator only (outside staff)", 
-                    "name": "timeSigBracketLeftSmallLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketRightSmall", 
-                    "codepoint": "U+F502", 
-                    "description": "Right bracket for numerator only (outside staff)", 
-                    "name": "timeSigBracketRightSmallLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigSlash", 
-                    "codepoint": "U+F503", 
-                    "description": "Time signature slash separator (outside staff)", 
-                    "name": "timeSigSlashLarge"
-                }, 
-                {
-                    "alternateFor": "timeSigCut2", 
-                    "codepoint": "U+F504", 
-                    "description": "Cut time (Bach) (outside staff)", 
-                    "name": "timeSigCut2Large"
-                }, 
-                {
-                    "alternateFor": "timeSigCut3", 
-                    "codepoint": "U+F505", 
-                    "description": "Cut triple time (9/8) (outside staff)", 
-                    "name": "timeSigCut3Large"
                 }
             ], 
             "type": "timeSigsLarge"
@@ -45335,234 +44546,6 @@
                 }
             ], 
             "type": "slashesOversized"
-        }, 
-        "ss09": {
-            "description": "Large, narrow bold serif time signatures", 
-            "glyphs": [
-                {
-                    "alternateFor": "timeSig0", 
-                    "codepoint": "U+F506", 
-                    "description": "Time signature 0 (large, narrow)", 
-                    "name": "timeSig0Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig1", 
-                    "codepoint": "U+F507", 
-                    "description": "Time signature 1 (large, narrow)", 
-                    "name": "timeSig1Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig2", 
-                    "codepoint": "U+F508", 
-                    "description": "Time signature 2 (large, narrow)", 
-                    "name": "timeSig2Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig3", 
-                    "codepoint": "U+F509", 
-                    "description": "Time signature 3 (large, narrow)", 
-                    "name": "timeSig3Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig4", 
-                    "codepoint": "U+F50A", 
-                    "description": "Time signature 4 (large, narrow)", 
-                    "name": "timeSig4Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig5", 
-                    "codepoint": "U+F50B", 
-                    "description": "Time signature 5 (large, narrow)", 
-                    "name": "timeSig5Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig6", 
-                    "codepoint": "U+F50C", 
-                    "description": "Time signature 6 (large, narrow)", 
-                    "name": "timeSig6Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig7", 
-                    "codepoint": "U+F50D", 
-                    "description": "Time signature 7 (large, narrow)", 
-                    "name": "timeSig7Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig8", 
-                    "codepoint": "U+F50E", 
-                    "description": "Time signature 8 (large, narrow)", 
-                    "name": "timeSig8Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSig9", 
-                    "codepoint": "U+F50F", 
-                    "description": "Time signature 9 (large, narrow)", 
-                    "name": "timeSig9Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSigCommon", 
-                    "codepoint": "U+F510", 
-                    "description": "Common time (large, narrow)", 
-                    "name": "timeSigCommonNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigCutCommon", 
-                    "codepoint": "U+F511", 
-                    "description": "Cut time (large, narrow)", 
-                    "name": "timeSigCutCommonNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigPlus", 
-                    "codepoint": "U+F512", 
-                    "description": "Time signature + (large, narrow)", 
-                    "name": "timeSigPlusNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigPlusSmall", 
-                    "codepoint": "U+F513", 
-                    "description": "Time signature + (for numerators) (large, narrow)", 
-                    "name": "timeSigPlusSmallNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionalSlash", 
-                    "codepoint": "U+F514", 
-                    "description": "Time signature fraction slash (large, narrow)", 
-                    "name": "timeSigFractionalSlashNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigEquals", 
-                    "codepoint": "U+F515", 
-                    "description": "Time signature equals (large, narrow)", 
-                    "name": "timeSigEqualsNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigMinus", 
-                    "codepoint": "U+F516", 
-                    "description": "Time signature minus (large, narrow)", 
-                    "name": "timeSigMinusNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigMultiply", 
-                    "codepoint": "U+F517", 
-                    "description": "Time signature multiply (large, narrow)", 
-                    "name": "timeSigMultiplyNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigParensLeftSmall", 
-                    "codepoint": "U+F518", 
-                    "description": "Left parenthesis for numerator only (large, narrow)", 
-                    "name": "timeSigParensLeftSmallNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigParensRightSmall", 
-                    "codepoint": "U+F519", 
-                    "description": "Right parenthesis for numerator only (large, narrow)", 
-                    "name": "timeSigParensRightSmallNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigParensLeft", 
-                    "codepoint": "U+F51A", 
-                    "description": "Left parenthesis for whole time signature (large, narrow)", 
-                    "name": "timeSigParensLeftNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigParensRight", 
-                    "codepoint": "U+F51B", 
-                    "description": "Right parenthesis for whole time signature (large, narrow)", 
-                    "name": "timeSigParensRightNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigComma", 
-                    "codepoint": "U+F51C", 
-                    "description": "Time signature comma (large, narrow)", 
-                    "name": "timeSigCommaNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionQuarter", 
-                    "codepoint": "U+F51D", 
-                    "description": "Time signature fraction \u00bc (large, narrow)", 
-                    "name": "timeSigFractionQuarterNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionHalf", 
-                    "codepoint": "U+F51E", 
-                    "description": "Time signature fraction \u00bd (large, narrow)", 
-                    "name": "timeSigFractionHalfNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionThreeQuarters", 
-                    "codepoint": "U+F51F", 
-                    "description": "Time signature fraction \u00be (large, narrow)", 
-                    "name": "timeSigFractionThreeQuartersNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionOneThird", 
-                    "codepoint": "U+F520", 
-                    "description": "Time signature fraction \u2153 (large, narrow)", 
-                    "name": "timeSigFractionOneThirdNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigFractionTwoThirds", 
-                    "codepoint": "U+F521", 
-                    "description": "Time signature fraction \u2154 (large, narrow)", 
-                    "name": "timeSigFractionTwoThirdsNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigX", 
-                    "codepoint": "U+F522", 
-                    "description": "Open time signature (large, narrow)", 
-                    "name": "timeSigXNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigOpenPenderecki", 
-                    "codepoint": "U+F523", 
-                    "description": "Open time signature (Penderecki) (narrow, large)", 
-                    "name": "timeSigOpenPendereckiNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketLeft", 
-                    "codepoint": "U+F524", 
-                    "description": "Left bracket for whole time signature (narrow, large)", 
-                    "name": "timeSigBracketLeftNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketRight", 
-                    "codepoint": "U+F525", 
-                    "description": "Right bracket for whole time signature (large, narrow)", 
-                    "name": "timeSigBracketRightNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketLeftSmall", 
-                    "codepoint": "U+F526", 
-                    "description": "Left bracket for numerator only (large, narrow)", 
-                    "name": "timeSigBracketLeftSmallNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigBracketRightSmall", 
-                    "codepoint": "U+F527", 
-                    "description": "Right bracket for numerator only (large, narrow)", 
-                    "name": "timeSigBracketRightSmallNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigSlash", 
-                    "codepoint": "U+F528", 
-                    "description": "Time signature slash separator (large, narrow)", 
-                    "name": "timeSigSlashNarrow"
-                }, 
-                {
-                    "alternateFor": "timeSigCut2", 
-                    "codepoint": "U+F529", 
-                    "description": "Cut time (Bach) (large, narrow)", 
-                    "name": "timeSigCut2Narrow"
-                }, 
-                {
-                    "alternateFor": "timeSigCut3", 
-                    "codepoint": "U+F52A", 
-                    "description": "Cut triple time (9/8) (large, narrow)", 
-                    "name": "timeSigCut3Narrow"
-                }
-            ], 
-            "type": "timeSigsNarrow"
         }
     }
 }
