@@ -415,3 +415,6 @@ Changelog
 
 29 April 2018 (Daniel Spreadbury) Bravura 1.272
 – Improved 'Large, narrow sans serif time signatures' stylistic set (ss04) glyphs to make the forms more condensed
+
+29 January 2019 (Daniel Spreadbury) Bravura 1.276 / Bravura Text 1.277
+– Fixed the scale factor for optical variants for chord symbol accidentals
