@@ -1,4 +1,5 @@
-Copyright (c) [year] [fullname] ([email])
+Copyright © 2019, Steinberg Media Technologies GmbH (http://www.steinberg.net/),
+with Reserved Font Name "Bravura".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
