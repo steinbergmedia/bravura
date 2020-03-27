@@ -425,3 +425,9 @@ Changelog
 6 December 2019 (Daniel Spreadbury) Bravura 1.32
 – Reduced height of accidentalBracketLeft (U+E26C) and accidentalBracketRight (U+E26D)
 – Corrected registration of a number of glyphs in the 'Extended Helmholtz-Ellis Just Intonation accidentals' range (U+E2DF, U+E2E6, U+E2E7, U+E2E8, U+E2E9, U+E2F7, U+E2F8, U+E2EB).
+
+18 March 2020 (Daniel Spreadbury) Bravura 1.34
+– Swapped direction of wiggleArpeggiatoDownArrow (U+EAAE) and wiggleArpeggiatoDownSwash (U+EAAC)
+
+27 March 2020 (Daniel Spreadbury) Bravura 1.35
+– Added figbassTripleFlat (U+ECC1) and figbassTripleSharp (U+ECC2)
