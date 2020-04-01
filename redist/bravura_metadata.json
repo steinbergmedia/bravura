@@ -1,6 +1,6 @@
 {
     "fontName": "Bravura", 
-    "fontVersion": 1.35, 
+    "fontVersion": 1.36, 
     "engravingDefaults": {
         "arrowShaftThickness": 0.16, 
         "barlineSeparation": 0.4, 
@@ -10473,8 +10473,8 @@
         }, 
         "figbassDoubleFlat": {
             "bBoxNE": [
-                1.36, 
-                1.9
+                1.0784, 
+                1.48024
             ], 
             "bBoxSW": [
                 0.08, 
@@ -10483,8 +10483,8 @@
         }, 
         "figbassDoubleSharp": {
             "bBoxNE": [
-                1.092, 
-                1.016
+                0.86936, 
+                0.78808
             ], 
             "bBoxSW": [
                 0.08, 
@@ -10493,8 +10493,8 @@
         }, 
         "figbassFlat": {
             "bBoxNE": [
-                0.776, 
-                1.868
+                0.62288, 
+                1.4544000000000001
             ], 
             "bBoxSW": [
                 0.08, 
@@ -10503,12 +10503,12 @@
         }, 
         "figbassNatural": {
             "bBoxNE": [
-                0.556, 
-                1.472
+                0.45127999999999996, 
+                1.17136
             ], 
             "bBoxSW": [
                 0.08, 
-                -0.44
+                -0.32
             ]
         }, 
         "figbassParensLeft": {
@@ -10543,18 +10543,18 @@
         }, 
         "figbassSharp": {
             "bBoxNE": [
-                0.848, 
-                1.568
+                0.67904, 
+                1.25456
             ], 
             "bBoxSW": [
                 0.08, 
-                -0.584
+                -0.424
             ]
         }, 
         "figbassTripleFlat": {
             "bBoxNE": [
-                1.9457639999999998, 
-                1.916
+                1.535296, 
+                1.493136
             ], 
             "bBoxSW": [
                 0.08, 
@@ -10563,12 +10563,12 @@
         }, 
         "figbassTripleSharp": {
             "bBoxNE": [
-                1.6740328, 
-                1.5753199999999998
+                1.3229700000000002, 
+                1.261644
             ], 
             "bBoxSW": [
-                0.07842640000000001, 
-                -0.5957392
+                0.0784256, 
+                -0.4317040000000001
             ]
         }, 
         "fingering0": {
@@ -31773,12 +31773,12 @@
         }, 
         "wiggleGlissando": {
             "bBoxNE": [
-                1.14, 
-                0.836
+                1.124, 
+                0.444
             ], 
             "bBoxSW": [
-                -0.084, 
-                0.392
+                -0.1, 
+                0.0
             ]
         }, 
         "wiggleGlissandoGroup1": {
@@ -39577,7 +39577,7 @@
         }, 
         "wiggleGlissando": {
             "repeatOffset": [
-                1.032, 
+                0.96, 
                 0.0
             ]
         }, 

@@ -431,3 +431,6 @@ Changelog
 
 27 March 2020 (Daniel Spreadbury) Bravura 1.35
 – Added figbassTripleFlat (U+ECC1) and figbassTripleSharp (U+ECC2)
+
+1 April 2020 (Daniel Spreadbury) Bravura 1.36
+– Reduced size of accidentals in 'Figured bass' and 'Figured bass supplement' range to match published editions more closely
