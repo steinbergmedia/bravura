@@ -434,3 +434,7 @@ Changelog
 
 1 April 2020 (Daniel Spreadbury) Bravura 1.36
 – Reduced size of accidentals in 'Figured bass' and 'Figured bass supplement' range to match published editions more closely
+
+3 May 2020 (Daniel Spreadbury) Bravura 1.37
+– Improved shape of accidentals in 'Figured bass' and 'Figured bass supplement' range, reducing the length of ascenders and descenders and increasing the size of the counters
+– Improved the design of figBass4Raised (U+EA56) to make the vertical stroke more prominent, aiding legibility at small sizes
