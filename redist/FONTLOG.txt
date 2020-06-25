@@ -438,3 +438,8 @@ Changelog
 3 May 2020 (Daniel Spreadbury) Bravura 1.37
 – Improved shape of accidentals in 'Figured bass' and 'Figured bass supplement' range, reducing the length of ascenders and descenders and increasing the size of the counters
 – Improved the design of figBass4Raised (U+EA56) to make the vertical stroke more prominent, aiding legibility at small sizes
+
+25 June 2020 (Daniel Spreadbury) Bravura 1.38
+– Added new stylistic set (ss10) for accidentals for figured bass with longer ascenders and descenders
+– Improved the shape of the tips of each of the up- and down-stem flags in the 'Flags' range (U+E240–U+E251)
+– Improved the shape of ornamentTrill (U+E566) and ornamentShortTrill (U+E56C)
