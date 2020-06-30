@@ -443,3 +443,6 @@ Changelog
 – Added new stylistic set (ss10) for accidentals for figured bass with longer ascenders and descenders
 – Improved the shape of the tips of each of the up- and down-stem flags in the 'Flags' range (U+E240–U+E251)
 – Improved the shape of ornamentTrill (U+E566) and ornamentShortTrill (U+E56C)
+
+30 June 2020 (Daniel Spreadbury) Bravura 1.39
+– Reduced size of accidentals in stylistic set ss10 to match published editions more closely
